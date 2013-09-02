@@ -1,4 +1,13 @@
-0.1.1 / 2013-09-01 
+0.1.3 / 2013-09-02 
+==================
+
+ * Merge branch 'feature/component-package' into develop
+ * Add component installation instructions; update component.json
+ * Merge branch 'feature/update-readme' into develop
+ * Update readme file
+ * Merge branch 'release/20130901.2' into develop
+
+0.1.2 / 2013-09-01 
 ==================
 
  * Bump version
