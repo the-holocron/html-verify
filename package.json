@@ -1,6 +1,6 @@
 {
     "name" : "html-verify",
-    "version" : "0.1.1",
+    "version" : "0.1.2",
     "description": "A CSS library to point out some bad or malformed HTML.",
     "keywords" : [ 
         "html", 
@@ -8,7 +8,7 @@
         "debug",
         "css"
     ],
-    "homepage" : "https://html-verify.github.io/",
+    "homepage" : "https://apermanentwreck.github.io/html-verify/",
     "bugs": {
         "url" : "https://github.com/apermanentwreck/html-verify/issues"
     },
