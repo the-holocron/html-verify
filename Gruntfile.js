@@ -32,7 +32,7 @@ module.exports = function( grunt ) {
                      banner : '<%= meta.banner %>'
                 },
                 files: {
-                    'html-verify.min.css' : 'html-verify.css']
+                    'html-verify.min.css' : 'html-verify.css'
                 }
             }
         },
