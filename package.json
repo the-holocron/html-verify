@@ -1,0 +1,39 @@
+{
+    "name" : "html-verify",
+    "version" : "0.1.0",
+    "description": "A CSS library to point out some bad or malformed HTML.",
+    "keywords" : [ 
+        "html", 
+        "html5",
+        "debug",
+        "css"
+    ],
+    "homepage" : "https://html-verify.github.io/",
+    "bugs": {
+        "url" : "https://github.com/apermanentwreck/html-verify/issues"
+    },
+    "licenses": [
+        {
+            "type" : "Creative Commons Legal Code Attribution-NonCommercial-NoDerivs 3.0",
+            "url" : "https://github.com/apermanentwreck/html-verify/blob/master/license.md"
+        }
+    ],
+    "author" : {
+        "name" : "Chris Newton",
+        "url" : "http://wrck.me/about"
+    },
+    "files" : [
+        "html-verify.min.css",
+        "html-verify.css"
+    ],
+    "repository" : {
+        "type" : "git",
+        "url" : "git://github.com/apermanentwreck/html-verify.git"
+    },
+    "devDependencies" : {
+        "grunt" : "~0.4.1",
+        "grunt-contrib-concat" : "~0.3.0",
+        "grunt-contrib-cssmin" : "~0.6.1",
+        "grunt-contrib-watch" : "~0.4.4"
+    }
+}
