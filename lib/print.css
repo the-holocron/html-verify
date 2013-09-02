@@ -1,0 +1,5 @@
+@media print {
+    form {
+        outline:5px solid #e74c3c;
+    }
+}

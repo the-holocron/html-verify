@@ -1,0 +1,60 @@
+/*
+ * Shouldn't use any of these deprecated elements or
+ * attributes.
+ *
+ */
+
+acronym::after,
+applet::after,
+basefont::after,
+big::after,
+center::after,
+dir::after,
+font::after,
+frame::after,
+frameset::after,
+isindex::after,
+listing::after,
+menu::after,
+multicol::after,
+plaintext::after,
+strike::after,
+u::after,
+xmp::after,
+bgsound::after,
+blink::after,
+comment::after,
+embed::after,
+marquee::after,
+nobr::after,
+noembed::after,
+wbr::after {
+	content: 'This element is deprecated, non-standard or obsolete.' !important;
+}
+
+/* Bad attributes */
+[align]::after,
+[alink]::after,
+[background]::after,
+[bgcolor]::after,
+[border]::after,
+[clear]::after,
+[height]::after,
+[hspace]::after,
+[link]::after,
+[nowrap]::after,
+[start]::after,
+[vlink]::after,
+[vspace]::after {
+	content: 'You are using a deprecated attribute. Use CSS instead.' !important;
+}
+
+script[language]::after {
+	content: 'The language attribute is deprecated.' !important;
+}
+script[type]::after {
+	content: 'Script tags no longer require the type attribute.' !important;
+}
+table[summary]::after {
+	content: 'The summary attribute is deprecated. Perhaps use the <caption> element.' !important;
+}
