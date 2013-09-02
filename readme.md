@@ -4,7 +4,7 @@ A CSS library to point out some bad or malformed HTML.
 
 ## Installation
 
-Install with [Bower](http://bower.io): `bower install html-verify`<br />
+Install with [Bower](http://bower.io): `bower install --save html-verify`<br />
 Install with [npm](http://npmjs.org): `npm install html-verify`<br />
 Install with [Component(1)](http://component.io): `component install apermanentwreck/html-verify`<br />
 
