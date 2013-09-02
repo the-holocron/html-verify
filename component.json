@@ -9,8 +9,8 @@
         "debug",
         "css"
     ],
-    "main" : "html-verify.min.css",
-    "styles": ["html-verify.css"],
-    "license" : "Creative Commons Legal Code Attribution-NonCommercial-NoDerivs 3.0 Unported",
-    "author": "Chris Newton"
+    "styles": [
+		"html-verify.css"
+	],
+    "license" : "Creative Commons Legal Code Attribution-NonCommercial-NoDerivs 3.0 Unported"
 }
