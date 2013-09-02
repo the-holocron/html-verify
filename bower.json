@@ -1,34 +1,32 @@
-{ 
-    "name" : "html-verify",
-    "version" : "0.1.0",
-    "location" : "https://github.com/apermanentwrec/html-verify",
-    "description" : "A CSS library to point out some bad or malformed HTML.",
-    "keywords" : [ 
-        "html", 
-        "html5",
-        "debug",
-        "css"
-    ],
-    "main" : "html-verify.min.css",
-    "ignore" : [
-        "examples",
-        "lib",
-        "changelog.md",
-        "bower.json",
-        "component.json",
-        "Gruntfile.js"
-    ]
-    "license" : "Creative Commons Legal Code Attribution-NonCommercial-NoDerivs 3.0",
-    "authors" : [
-        {
-            "name" : "Chris Newton",
-            "homepage" : "http://wrck.me/about"
-        }
-    ],
-    "homepage" : "https://html-verify.github.io/",
-    "license" : "Creative Commons Legal Code Attribution-NonCommercial-NoDerivs 3.0 Unported",
-    "repository" : {
-        "type" : "git",
-        "url" : "git://github.com/apermanentwreck/html-verify.git"
-    }
+{
+  "name": "html-verify",
+  "version": "0.1.0",
+  "location": "git://github.com:apermanentwreck/html-verify.git",
+  "description": "A CSS library to point out some bad or malformed HTML.",
+  "keywords": [
+    "html",
+    "html5",
+    "debug",
+    "css"
+  ],
+  "main": [
+      "./html-verify.css"
+  ],
+  "ignore": [
+    "lib",
+    "changelog.md",
+    "bower.json",
+    "component.json",
+    "Gruntfile.js",
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "license": "Creative Commons Legal Code Attribution-NonCommercial-NoDerivs 3.0",
+  "authors": [
+    "Newton <wreck@me.com>"
+  ],
+  "homepage": "http://apermanentwreck.github.io/html-verify/"
 }
