@@ -4,9 +4,11 @@ A CSS library to point out some bad or malformed HTML.
 
 ## Installation
 
-Install with [Bower](http://bower.io): `bower install --save html-verify`<br />
-Install with [npm](http://npmjs.org): `npm install html-verify`<br />
-Install with [Component(1)](http://component.io): `component install apermanentwreck/html-verify`<br />
+Install with [Bower](http://bower.io): `bower install --save html-verify`
+
+Install with [npm](http://npmjs.org): `npm install html-verify`
+
+Install with [Component(1)](http://component.io): `component install apermanentwreck/html-verify`
 
 ### Git Submodule
 
@@ -17,7 +19,7 @@ Install with [Component(1)](http://component.io): `component install apermanentw
 
 [Latest - v.0.1.3](https://github.com/apermanentwreck/html-verify/archive/master.zip)
 
-# Contribution
+## Contribution
 
 1. [Fork It](https://github.com/apermanentwreck/html-verify/fork)
 2. Create your feature branch (`git checkout -b feature/my-new-feature develop`)
@@ -25,12 +27,28 @@ Install with [Component(1)](http://component.io): `component install apermanentw
 4. Push to the branch (`git push origin feature/my-new-feature`)
 5. Create new [Pull Request](https://github.com/apermanentwreck/html-verify/compare)
 
-## Requirements
+### Requirements
 
 - [Node](http://nodejs.org/) & [npm](https://npmjs.org/)
 - [Grunt](http://gruntjs.com/) (`npm instal -g grunt-cli`)
 
-## Setup
+### Setup
 
 1. `npm install`
 2. `grunt`
+
+## Browser Support
+
+- Google Chrome 28+
+- Mozilla Firefox 22+
+- Apple Safari 5.1+
+- Opera 16+
+- Internet Explorer 9+
+
+## Acknowledgements
+
+HTML Verify is a project by [Newton](http://github.com/apermanentwreck/). Inspired by a few projects:
+
+1. [Semantic CSS with Intelligent Selectors](http://coding.smashingmagazine.com/2013/08/20/semantic-css-with-intelligent-selectors/)
+2. [DiagnostiCSS](https://github.com/diagnosticss/diagnosticss)
+3. [Revenge CSS Bookmarklet](https://github.com/Heydon/REVENGE.CSS)
