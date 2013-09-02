@@ -6,13 +6,13 @@ module.exports = function( grunt ) {
         // grunt metadata
         info : grunt.file.readJSON('package.json'),
         meta : {
-            banner: '//\n'+
-                '// <%= info.name %> - <%= info.description %>\n'+
-                '// v<%= info.version %>\n'+
-                '// <%= info.homepage %>\n'+
-                '// copyright <%= info.copyright %> <%= grunt.template.today("yyyy") %>\n'+
-                '// <%= info.license %> License\n'+
-                '//\n'
+            banner: '/*\n'+
+                ' * HTML Verify - <%= info.description %>\n'+
+                ' * v<%= info.version %>\n'+
+                ' * <%= info.homepage %>\n'+
+                ' * Copyright <%= info.author.name %> <%= grunt.template.today("yyyy") %>\n'+
+                ' * Creative Commons Legal Code Attribution-NonCommercial-NoDerivs 3.0 License\n'+
+                '*/\n'
         },
 
         // tasks
@@ -32,7 +32,7 @@ module.exports = function( grunt ) {
                      banner : '<%= meta.banner %>'
                 },
                 files: {
-                    'html-verify.min.css' : 'html-verify.css']
+                    'html-verify.min.css' : 'html-verify.css'
                 }
             }
         },
