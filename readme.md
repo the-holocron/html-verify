@@ -15,7 +15,7 @@ Install with [Component(1)](http://component.io): `component install apermanentw
 
 ### Manual Download
 
-[Latest - v.0.1.2](https://github.com/apermanentwreck/html-verify/archive/master.zip)
+[Latest - v.0.1.3](https://github.com/apermanentwreck/html-verify/archive/master.zip)
 
 # Contribution
 
