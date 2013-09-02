@@ -2,7 +2,7 @@
     "name": "html-verify",
     "repo": "apermanentwreck/html-verify",
     "description" : "A CSS library to point out some bad or malformed HTML.",
-    "version": "0.1.1",
+    "version": "0.1.2",
     "keywords" : [ 
         "html", 
         "html5",
