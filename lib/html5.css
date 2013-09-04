@@ -1,0 +1,44 @@
+/*
+ * Some generic rules for using new HTML 5 elements.
+ *
+ */
+
+section > section:first-child::after,
+article > section:first-child::after,
+article > article:first-child::after,
+section > article:first-child::after,
+section > aside:first-child::after,
+aside > aside:first-child::after,
+article > aside:first-child::after,
+aside > article:first-child::after,
+aside > section:first-child::after {
+	content: 'Sectioning elems are not arbitrary wrappers. Use <div>s here.' !important;
+}
+
+body > header:not([role="banner"])::after,
+body > div > header:not([role="banner"])::after {
+	content: 'Use should use role="banner" on this header element.' !important;
+}
+
+body > footer:not([role="contentinfo"])::after,
+body > div > footer:not([role="contentinfo"])::after {
+	content: 'Use role="contentinfo" on this footer element.' !important;
+}
+
+section [role="banner"]::after,
+section [role="contentinfo"]::after,
+article [role="banner"]::after,
+article [role="contentinfo"]::after,
+aside [role="banner"]::after,
+aside [role="contentinfo"]::after {
+	content: 'Do not put [role="banner"] or [role="contentinfo"] inside a subsection.' !important;
+}
+
+#main:not(main)::after,
+.main:not(main)::after,
+#main-content:not(main)::after,
+.main-content:not(main)::after,
+#page-content:not(main)::after,
+.page-content:not(main)::after {
+	content: 'Use the standard <main> element to mark up the main part of your page.' !important;
+}
