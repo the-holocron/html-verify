@@ -527,6 +527,7 @@ a:hover {
 }
 .Header {
     margin-top: 2em;
+    border-radius: 2px 2px 0 0;
     padding-bottom: 0;
 }
     .Header .logo {
@@ -543,7 +544,7 @@ a:hover {
     }
 .Body {
     position: relative;
-    padding-bottom: 0;
+    padding-bottom: 1em;
 }
     .Body .fineprint {
         display: block;
@@ -561,25 +562,33 @@ a:hover {
         .Body .install pre {
             margin: .5em 0;
         }
-    .Body .footer {
-        position: relative;
-        left: -4em;
-        width: 125%;
-        overflow: hidden;
-        border-top: 1px solid rgb(216,198,195);
-        padding: 1em 1em .7em;
-        background-color: rgba(216,198,195,.4);
-    }
-    .Body .social,
-    .Body .more {
-        display: inline;
-        float: left;
-    }
+        .Body .install pre::selection,
+        .Body .install code::selection {
+            background-color: rgb(82,170,244);
+            color: rgb(255,255,255);
+        }
+        .Body .install a::selection {
+            background-color: rgb(82,170,244);
+            color: rgb(0,0,0);
+        }
 .Footer {
-    padding: 1em 0 2em;
+    padding: 0 0 2em;
     font-size: 1.6rem;
     text-align: left;
 }
+    .Footer .social {
+        overflow: hidden;
+        margin: 0 0 1em;
+        border-top: 5px solid rgb(216,198,195);
+        border-radius: 0 0 2px 2px;
+        padding: 1em .75em .7em;
+        background-color: rgba(216,198,195,.75);
+    }
+        .Footer .social .item {
+            display: inline;
+            float: left;
+            margin: 0 .25em;
+        }
     .Footer p {
         margin: 0;
         line-height: 1.5;
