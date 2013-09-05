@@ -17,15 +17,11 @@ Install with [Component(1)](http://component.io): `component install apermanentw
 
 ### Manual Download
 
-[Latest - v.0.1.3](https://github.com/apermanentwreck/html-verify/archive/master.zip)
+[Latest - v.0.1.3](/archive/master.zip)
 
 ## Contribution
 
-1. [Fork It](https://github.com/apermanentwreck/html-verify/fork)
-2. Create your feature branch (`git checkout -b feature/my-new-feature develop`)
-3. Commit your changes (`git commit -am 'Add some feature'`)
-4. Push to the branch (`git push origin feature/my-new-feature`)
-5. Create new [Pull Request](https://github.com/apermanentwreck/html-verify/compare)
+See [Contribution](/contribution.md) for the style guide and how you can help.
 
 ### Requirements
 
