@@ -6,7 +6,7 @@ module.exports = function( grunt ) {
         // grunt metadata
         info : grunt.file.readJSON('package.json'),
         meta : {
-            banner: '/*\n'+
+            banner : '/*\n'+
                 ' * HTML Verify - <%= info.description %>\n'+
                 ' * v<%= info.version %>\n'+
                 ' * <%= info.homepage %>\n'+

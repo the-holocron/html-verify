@@ -17,11 +17,11 @@ Install with [Component(1)](http://component.io): `component install apermanentw
 
 ### Manual Download
 
-[Latest - v.0.1.3](/archive/master.zip)
+[Latest - v.0.1.3](/https://github.com/apermanentwreck/html-verify/archive/master.zip)
 
 ## Contribution
 
-See [Contribution](/contribution.md) for the style guide and how you can help.
+See [Contributing Guidelines](/contributing.md) for the style guide and how you can help.
 
 ### Requirements
 
