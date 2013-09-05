@@ -1,3 +1,14 @@
+0.1.4 / 2013-09-04 
+==================
+
+ * Merge branch 'feature/contribution-file' into develop
+ * Update contributing file to include more thorough instructions
+ * Merge branch 'feature/add-wiki-submodule' into develop
+ * Add Github wiki as submodule
+ * Merge branch 'feature/update-readme' into develop
+ * Add browser support specs & acknowledgements
+ * Merge branch 'release/20130901.3' into develop
+
 0.1.3 / 2013-09-02 
 ==================
 
