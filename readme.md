@@ -2,6 +2,8 @@
 
 A CSS library to point out some bad or malformed HTML.
 
+[![Bitdeli Badge](https://d2weczhvl823v0.cloudfront.net/apermanentwreck/html-verify/trend.png)](https://bitdeli.com/free "Bitdeli Badge")
+
 ## Installation
 
 Install with [Bower](http://bower.io): `bower install --save html-verify`
