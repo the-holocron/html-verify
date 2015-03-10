@@ -1,0 +1,69 @@
+{
+    # Project's human readable name
+    title: "HTML Verify"
+
+    # Project slug name
+    name: "html-verify"
+
+    # Project GitHub repository full name
+    # If `repository` is set, or if `homepage` is a GitHub URL, we set this automatically
+    repo: "chrisopedia/html-verify"
+
+    # Project's homepage URL
+    # If `repo`, `repository`, or `demo` is set, we set this automatically
+    homepage: "https://github.com/chrisopedia/html-verify"
+
+    # Project's demo URL
+    # If `homepage` or  is set, we set this automatically
+    demo: "https://chrisopedia.github.io/html-verify"
+
+    # Project description
+    description: "A CSS library to point out some bad or malformed HTML."
+
+    # Project keywords
+    # Can be an array or CSV string
+    keywords: [ "html", "css", "sass", "debug", "validation", "validator" ]
+
+    # Project's author details
+    # Can be an array or CSV string
+    authors: ["2014+ Chris Newton <chrisohpedia@gmail.com> (http://chrisnewton.me/about)"]
+
+    # Maintainers
+    # Can be an array or CSV string
+    maintainers: ["Chris Newton (chrisohpedia@gmail.com) (http://chrisnewton.me/about)"]
+
+    # Contributors
+    # Pulled in automatically from the GitHub Repository API and the GitHub Repository's `package.json` file
+    contributors: null
+
+    # Project's license details
+    # Can be an array or CSV string
+    license:
+        type: "MIT",
+        url: "https://github.com/chrisopedia/html-verify/blob/master/LICENSE.md"
+
+    # Project's repository details
+    # If `repo` is set, or if `homepage` is a GitHub URL, we set this automatically
+    repository:
+        type: "git"
+        url: "https://github.com/chrisopedia/html-verify.git"
+
+    # Project's repository details
+    # If `repo` is set, or if `homepage` is a GitHub URL, we set this automatically
+    bugs:
+        url: "https://github.com/chrisopedia/html-verify/issues"
+
+    # Whether the project can run on the client-side in web browsers
+    # If the component or bower package information is set, then this becomes true automatically
+    browsers: true
+
+    # Project's badges for use in the readme files
+    badges:
+        # Waffle.io Badge
+        # If a string is provided, that will be used as the GitHub issue queue
+        # label. Otherwise, the label will default to "ready".
+        waffleio: true
+
+        # Gittip Badge
+        gittip: "chrisopedia"
+}

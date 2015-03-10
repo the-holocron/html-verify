@@ -1,0 +1,26 @@
+<h1 id="forms">Forms</h1>
+
+<p>Block-level elements should not be nested within an inline element.</p>
+
+<h2>Example</h2>
+
+<h3>Undeclared button</h3>
+<form action="/">
+	<button>Submit</button>
+</form>
+
+<h3>No Action</h3>
+<form>
+	I don't wanna to kiss you, I don't wanna touch
+</form>
+
+<h3>No &lt;legend&gt; within an fieldset</h3>
+<fieldset>
+	<input type="button" value="Submit" />
+</fieldset>
+
+<h3>Disabled button class</h3>
+<button class="disabled">Disabled</button>
+
+<h3>No for attribute on a &lt;label&gt;</h3>
+<label>Label</label>

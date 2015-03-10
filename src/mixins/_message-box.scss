@@ -1,0 +1,25 @@
+@import 'positioning';
+@import 'arrow';
+
+@mixin message-box( $type ) {
+	@include absolute( bottom -49px left 10px );
+	box-shadow: 0 5px 5px transparentize( map-get( $colors, black ), 0.5 );
+	border: 5px solid map-get( $colors, #{$type} );
+	border-radius: 2px;
+	padding: 5px;
+	background-color: map-get( $colors, #{$type} );
+	color: map-get( $colors, white );
+	font-size: 13px;
+	white-space: nowrap;
+}
+@each $type in error, warning, info, success {
+	%#{$type} {
+		position: relative;
+		&::before {
+			@include arrow( top, bottom -16px left 15px, map-get( $colors, #{$type} ) );
+		}
+		&::after {
+			@include message-box( $type );
+		}
+	}
+}

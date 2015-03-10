@@ -1,16 +1,31 @@
 {
-    "name": "html-verify",
-    "repo": "apermanentwreck/html-verify",
-    "description" : "A CSS library to point out some bad or malformed HTML.",
-    "version": "0.1.5",
-    "keywords" : [ 
-        "html", 
-        "html5",
-        "debug",
-        "css"
-    ],
-    "styles": [
-        "html-verify.css"
-    ],
-    "license" : "Creative Commons Legal Code Attribution-NonCommercial-NoDerivs 3.0 Unported"
+  "name": "html-verify",
+  "version": "0.2.0",
+  "description": "A CSS library to point out some bad or malformed HTML.",
+  "keywords": [
+    "html",
+    "css",
+    "sass",
+    "debug",
+    "validation",
+    "validator"
+  ],
+  "demo": "https://chrisopedia.github.io/html-verify",
+  "styles": [
+    [
+      "./html-verify.css",
+      "./html-verify.min.css"
+    ]
+  ],
+  "license": "MIT",
+  "main": [
+    "./html-verify.css",
+    "./html-verify.min.css"
+  ],
+  "scripts": [
+    [
+      "./html-verify.css",
+      "./html-verify.min.css"
+    ]
+  ]
 }

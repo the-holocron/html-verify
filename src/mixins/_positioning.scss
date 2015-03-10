@@ -1,0 +1,37 @@
+// Positioning stuff
+@mixin position($position, $args) {
+	position: $position;
+	@each $o in top right bottom left {
+		$i: index($args, $o);
+
+		@if $i and $i + 1 <= length($args) and type-of(nth($args, $i + 1)) == number {
+			#{$o}: nth($args, $i + 1);
+		}
+	}
+}
+// Absolutely positioning stuff
+@mixin absolute($args) {
+	@include position(absolute, $args);
+}
+// Relatively positioning stuff
+@mixin relative($args) {
+	@include relative(absolute, $args);
+}
+@mixin center-things( $direction, $size ) {
+	$positions: top right bottom left;
+	$offset: $size * -1;
+
+	@if not index( $positions, $direction ) {
+		@warn "Direction must be one of `top`, `right`, `bottom` or `left`; currently `#{$direction}`.";
+	}
+	position: absolute;
+	#{$direction}: $offset;
+
+	@if $direction == top or $direction == bottom {
+		left: 50%;
+		margin-left: $offset;
+	} @else if $direction == left or $direction == right {
+		top: 50%;
+		margin-top: $offset;
+	}
+}

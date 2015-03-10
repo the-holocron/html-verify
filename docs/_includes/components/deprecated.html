@@ -1,0 +1,20 @@
+<h1 id="deprecated">Deprecated</h1>
+
+<h2>Elements</h2>
+
+<p>Elements that have been deprecated should not be used.</p>
+
+<h3>Example</h3>
+<font>This is a font tag</font>
+
+<h3>Listing of All Deprecated Elements</h3>
+{% for element in site.data.elements.deprecated %}
+	{{element}}{% if forloop.last == false %}, {% else %}{% endif %}
+{% endfor %}
+
+<h2>Attributes</h2>
+
+<p>Elements that have been deprecated should not be used.</p>
+
+<h3>Example</h3>
+<div align="center">A &lt;div&gt; tag using the align attribute</div>

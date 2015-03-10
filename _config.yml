@@ -1,0 +1,8 @@
+# Permalinks
+permalink: pretty
+
+# Server
+source: docs
+
+kramdown:
+  input: GFM

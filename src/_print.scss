@@ -1,0 +1,8 @@
+@media print {
+	form {
+		@extend %warning;
+		&::after {
+			content: 'You can\'t interact with a form on paper, so why waste ink?' !important;
+		}
+	}
+}

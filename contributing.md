@@ -1,15 +1,15 @@
 # How to Contribute
 
-Third-party patches are essential for keeping open-source software great. 
+Third-party patches are essential for keeping open-source software great.
 In the spirit of keeping it as simple as possible to contribute changes that
-get things working in your environment, here are a few guidelines that 
+get things working in your environment, here are a few guidelines that
 contributors should follow.  As [Nicholas Gallagher](http://github.com/necolas/normalize.css/blob/master/CONTRIBUTING.md) put it in his contributing
 guidelines:
 
 > Following these guidelines helps to communicate that you respect the time
 > of the developers managing and developing […]. In return, they should
 > reciprocate that respect in addressing your issue or assessing your patches
-> and features. 
+> and features.
 
 ## Table of Contents
 1. [Getting Started](#getting-started)
@@ -23,20 +23,20 @@ guidelines:
 ## Getting Started
 
 1. Make sure you have a [GitHub account](https://github.com/signup/free).
-2. Read the [Style Guide](https://github.com/apermanentwreck/html-verify/wiki/Style-Guide) docs in the Wiki.  I won't accept any pull request that doesn't adhere, so be forewarned.
-3. Please [ask before](https://twitter.com/apermanentwreck) making significant changes.  I'd hate for you to put in a lot of work for something that doesn't align with the vision of this project.
+2. Read the [Style Guide](https://github.com/chrisopedia/html-verify/wiki/Style-Guide) docs in the Wiki.  I won't accept any pull request that doesn't adhere, so be forewarned.
+3. Please [ask before](https://twitter.com/chrisopedia) making significant changes.  I'd hate for you to put in a lot of work for something that doesn't align with the vision of this project.
 4. This project uses [Grunt](http://gruntjs.com/) to concat, minify, version, hash, and compile among other things.  So if you're not comfortable with using this, it may be difficult for you to contribute.
 
 ## Bug Reports
 
 Bugs are small, testable and demonstratable problems caused by the code.  A good report will be able to easily outline the problem and steps to recreate.  If you're going to submit a bug, please verify you've done everything on this list.
 
-1. [Search](https://github.com/apermanentwreck/html-verify/search) for the issue.  This means you may have to read through the issue(s) in order to determine if your particular issue has already been created.
+1. [Search](https://github.com/chrisopedia/html-verify/search) for the issue.  This means you may have to read through the issue(s) in order to determine if your particular issue has already been created.
 2. Check if the issue has been fixed by trying to reproduce the issue in a fresh repo off the `master` branch.
 3. Create a [reduced test case](http://css-tricks.com/reduced-test-cases/) as outlined by @chriscoyier of [CSS Tricks](http://css-tricks.com/).  Link to the [Code Pen](http://codepen.io), [JS Bin](http://jsbin.com), or whatever you use, as long as its publicly accessible.
 4. If you've followed the above, and you're still seeing the problem, congratulations, you've just found a bug.
 
-Now its time to [submit a ticket](https://github.com/apermanentwreck/html-verify/issues/new).  Bug reports should be thorough and not leave me wondering or questioning what you were thinking.  I shouldn't have to ask you anything or require further clarification.  Github allows you to fill out a title and a comment.  The title should be concise and descriptive; I should be able to know what you're issue is at a glance.  For the comment section, there are some very specific fields I'd like to see within there.  The first few lines should be a description or summary of the issue; don't be afraid to go into detail.  No one ever said too much detail was a problem, and if they did, it wasn't me.  I would like a few other things listed as such:
+Now its time to [submit a ticket](https://github.com/chrisopedia/html-verify/issues/new).  Bug reports should be thorough and not leave me wondering or questioning what you were thinking.  I shouldn't have to ask you anything or require further clarification.  Github allows you to fill out a title and a comment.  The title should be concise and descriptive; I should be able to know what you're issue is at a glance.  For the comment section, there are some very specific fields I'd like to see within there.  The first few lines should be a description or summary of the issue; don't be afraid to go into detail.  No one ever said too much detail was a problem, and if they did, it wasn't me.  I would like a few other things listed as such:
 
 1. **Browser & OS**: Always include the browser(s) and version(s) along with the OS(es) where you found the issue.  If, for example its Chrome on a Mac, version 22 and above, you can simply put Chrome 22+ (OSX 10.8.3).
 2. **Steps to Reproduce**: Please include the steps you followed to find this bug.  This will make my life so much easier to help fix the issue.  Screenshots can be a big help as well along with the steps.
@@ -67,13 +67,13 @@ I always open for new ideas, so don't be afraid to issue a feature request, but 
 ## Pull Requests
 
 ### The Process
-1. [Fork It](https://github.com/apermanentwreck/html-verify/fork)
+1. [Fork It](https://github.com/chrisopedia/html-verify/fork)
 2. Clone the repo (`git clone https://github.com/<username>/html-verify`)
 3. Configure the remote.
 
     ```
     cd html-verify
-    git remote add upstream https://github.com/apermanentwreck/html-verify
+    git remote add upstream https://github.com/chrisopedia/html-verify
     ```
 
     4. If you've cloned previously, then get latest changes.
@@ -86,7 +86,7 @@ I always open for new ideas, so don't be afraid to issue a feature request, but 
 5. Create your feature branch (`git checkout -b feature/my-new-feature`)
 3. Commit your changes (`git commit -am 'Add some feature'`)
 4. Push to the branch (`git push origin feature/my-new-feature`)
-5. Create new [Pull Request](https://github.com/apermanentwreck/html-verify/compare)
+5. Create new [Pull Request](https://github.com/chrisopedia/html-verify/compare)
 
 **IMPORTANT**: By submitting a patch, you agree to the same license as that used by the project.
 
@@ -113,7 +113,7 @@ I always open for new ideas, so don't be afraid to issue a feature request, but 
     Further paragraphs come after blank lines.
 
     - Bullet points are okay, too
-    - Typically a hyphen or asterisk is used for the bullet, preceded by a 
+    - Typically a hyphen or asterisk is used for the bullet, preceded by a
       single space, with blank lines in between, but conventions vary here
     - Use a hanging indent
 ````

@@ -1,16 +1,41 @@
+<!-- TITLE -->
 # HTML Verify
+
+<!-- BADGES/ -->
+
+[![NPM version](https://img.shields.io/npm/v/html-verify.svg)](https://npmjs.org/package/html-verify "View this project on NPM")
+[![NPM downloads](https://img.shields.io/npm/dm/html-verify.svg)](https://npmjs.org/package/html-verify "View this project on NPM")
+[![Stories in Ready](https://badge.waffle.io/chrisopedia/html-verify.png?label=ready)](http://waffle.io/chrisopedia/html-verify)
+[![Dependency Status](https://img.shields.io/david/chrisopedia/html-verify.svg)](https://david-dm.org/chrisopedia/html-verify)
+[![Dev Dependency Status](https://img.shields.io/david/dev/chrisopedia/html-verify.svg)](https://david-dm.org/chrisopedia/html-verify#info=devDependencies)<br/>
+[![Gratipay donate button](https://img.shields.io/gratipay/chrisopedia.svg)](https://www.gratipay.com/chrisopedia/ "Donate weekly to this project using Gratipay")
+[![Bitdeli Badge](https://d2weczhvl823v0.cloudfront.net/apermanentwreck/html-verify/trend.png)](https://bitdeli.com/free "Bitdeli Badge")
+
+<!-- /BADGES -->
+
+<!-- DESCRIPTION/ -->
 
 A CSS library to point out some bad or malformed HTML.
 
-[![Bitdeli Badge](https://d2weczhvl823v0.cloudfront.net/apermanentwreck/html-verify/trend.png)](https://bitdeli.com/free "Bitdeli Badge")
+<!-- /DESCRIPTION -->
 
-## Installation
+<!-- INSTALL/ -->
 
-Install with [Bower](http://bower.io): `bower install --save html-verify`
+## Install
 
-Install with [npm](http://npmjs.org): `npm install html-verify`
+### [NPM](http://npmjs.org/)
+- Use: `require('html-verify')`
+- Install: `npm install --save html-verify`
 
-Install with [Component(1)](http://component.io): `component install apermanentwreck/html-verify`
+### [Component](http://github.com/component/component)
+- Use: `require('html-verify')`
+- Install: `component install chrisopedia/html-verify`
+
+### [Bower](http://bower.io/)
+- Use: `require('html-verify')`
+- Install: `bower install html-verify`
+
+<!-- /INSTALL -->
 
 ### Git Submodule
 
@@ -21,9 +46,13 @@ Install with [Component(1)](http://component.io): `component install apermanentw
 
 [Latest - v.0.1.3](/https://github.com/apermanentwreck/html-verify/archive/master.zip)
 
-## Contribution
+<!-- CONTRIBUTE/ -->
 
-See [Contributing Guidelines](/contributing.md) for the style guide and how you can help.
+## Contribute
+
+[Discover how you can contribute by heading on over to the `CONTRIBUTING.md` file.](https://github.com/chrisopedia/html-verify/blob/master/CONTRIBUTING.md#files)
+
+<!-- /CONTRIBUTE -->
 
 ### Requirements
 

@@ -1,0 +1,21 @@
+<h1 id="block-inline">Block Inline</h1>
+
+<p>Block-level elements should not be nested within an inline element.</p>
+
+<p>Note! This does not include block-level <code>&lt;a /&gt;</code> tags.</p>
+
+<h2>Example</h2>
+<span>
+	<div>
+		block within an inline
+	</div>
+</span>
+
+<h3>Listing of All Possible Scenarios</h3>
+{% comment %}
+{% for block in site.data.elements.block %}
+	{% for inline in site.data.elements.inline %}
+		<div>{{inline}} &gt; {{block}}</div>
+	{% endfor %}
+{% endfor %}
+{% endcomment %}

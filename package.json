@@ -1,39 +1,48 @@
 {
-    "name" : "html-verify",
-    "version" : "0.1.5",
-    "description": "A CSS library to point out some bad or malformed HTML.",
-    "keywords" : [ 
-        "html", 
-        "html5",
-        "debug",
-        "css"
-    ],
-    "homepage" : "https://apermanentwreck.github.io/html-verify/",
-    "bugs": {
-        "url" : "https://github.com/apermanentwreck/html-verify/issues"
-    },
-    "licenses": [
-        {
-            "type" : "Creative Commons Legal Code Attribution-NonCommercial-NoDerivs 3.0",
-            "url" : "https://github.com/apermanentwreck/html-verify/blob/master/license.md"
-        }
-    ],
-    "author" : {
-        "name" : "Chris Newton",
-        "url" : "http://wrck.me/about"
-    },
-    "files" : [
-        "html-verify.min.css",
-        "html-verify.css"
-    ],
-    "repository" : {
-        "type" : "git",
-        "url" : "git://github.com/apermanentwreck/html-verify.git"
-    },
-    "devDependencies" : {
-        "grunt" : "~0.4.1",
-        "grunt-contrib-concat" : "~0.3.0",
-        "grunt-contrib-cssmin" : "~0.6.1",
-        "grunt-contrib-watch" : "~0.4.4"
-    }
+  "name": "html-verify",
+  "version": "0.2.0",
+  "description": "A CSS library to point out some bad or malformed HTML.",
+  "keywords": [
+    "html",
+    "css",
+    "sass",
+    "debug",
+    "validation",
+    "validator"
+  ],
+  "author": "Chris Newton <chrisohpedia@gmail.com> (http://chrisnewton.me/about)",
+  "maintainers": [
+    "Chris Newton (chrisohpedia@gmail.com) (http://chrisnewton.me/about)"
+  ],
+  "contributors": [],
+  "bugs": {
+    "url": "https://github.com/chrisopedia/html-verify/issues"
+  },
+  "main": [
+    "./html-verify.css",
+    "./html-verify.min.css"
+  ],
+  "license": {
+    "type": "MIT",
+    "url": "https://github.com/chrisopedia/html-verify/blob/master/LICENSE.md"
+  },
+  "devDependencies": {
+    "grunt": "^0.4.5",
+    "grunt-autoprefixer": "^2.2.0",
+    "grunt-banner": "^0.3.1",
+    "grunt-contrib-clean": "^0.6.0",
+    "grunt-contrib-concat": "^0.5.1",
+    "grunt-contrib-connect": "^0.9.0",
+    "grunt-contrib-copy": "^0.8.0",
+    "grunt-contrib-cssmin": "^0.12.2",
+    "grunt-contrib-sass": "^0.9.2",
+    "grunt-contrib-watch": "^0.6.1",
+    "grunt-jekyll": "^0.4.2"
+  },
+  "dependencies": {
+    "projectz": "^0.5.0"
+  },
+  "scripts": {
+    "compile": "node ./node_modules/projectz/bin/projectz compile"
+  }
 }

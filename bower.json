@@ -1,32 +1,32 @@
 {
   "name": "html-verify",
-  "version": "0.1.5",
-  "location": "git://github.com:apermanentwreck/html-verify.git",
+  "version": "0.2.0",
   "description": "A CSS library to point out some bad or malformed HTML.",
   "keywords": [
     "html",
-    "html5",
+    "css",
+    "sass",
     "debug",
-    "css"
+    "validation",
+    "validator"
   ],
   "main": [
-      "./html-verify.css"
+    "./html-verify.css",
+    "./html-verify.min.css"
   ],
+  "license": "MIT",
   "ignore": [
-    "lib",
-    "changelog.md",
-    "bower.json",
-    "component.json",
-    "Gruntfile.js",
     "**/.*",
-    "node_modules",
-    "bower_components",
-    "test",
-    "tests"
-  ],
-  "license": "Creative Commons Legal Code Attribution-NonCommercial-NoDerivs 3.0",
-  "authors": [
-    "Newton <wreck@me.com>"
-  ],
-  "homepage": "http://apermanentwreck.github.io/html-verify/"
+    "docs",
+    "tasks",
+    "_config.yml",
+    "browserlist",
+    "Gemfile",
+    "Gemfile.lock",
+    "Gruntfile.js",
+    "CHANGELOG.md",
+    "CONTRIBUTING.md",
+    "OWNERS.md",
+    "component.json"
+  ]
 }

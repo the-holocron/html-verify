@@ -1,0 +1,42 @@
+/*
+ * Shouldn't use any of these deprecated elements or
+ * attributes.
+ *
+ */
+@each $element in map-get( $elements, 'deprecated' ) {
+	#{$element} {
+		@extend %error;
+		&::after {
+			content: 'This element is deprecated, non-standard or obsolete.' !important;
+		}
+	}
+}
+@each $attribute in $deprecated_attributes {
+	[#{$attribute}] {
+		@extend %error;
+		&::after {
+			content: 'You are using a deprecated attribute. Use CSS instead.' !important;
+		}
+	}
+}
+
+script {
+	&[language] {
+		@extend %error;
+		&::after {
+			content: 'The language attribute is deprecated.' !important;
+		}
+	}
+	&[type] {
+		@extend %warning;
+		&::after {
+			content: 'Script tags no longer require the type attribute.' !important;
+		}
+	}
+}
+table[summary] {
+	@extend %error;
+	&::after {
+		content: 'The summary attribute is deprecated. Perhaps use the <caption> element.' !important;
+	}
+}
