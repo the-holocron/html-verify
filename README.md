@@ -31,7 +31,7 @@ A Sass/CSS library to point out some bad or malformed HTML.
 
 ### Manual Download
 
-[Latest - v.1.0.1](/https://github.com/chrisopedia/html-verify/archive/master.zip)
+[Latest - v.1.0.2](/https://github.com/chrisopedia/html-verify/archive/master.zip)
 
 <!-- CONTRIBUTE/ -->
 
