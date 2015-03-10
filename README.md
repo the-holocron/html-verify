@@ -1,7 +1,6 @@
-<!-- TITLE -->
 # HTML Verify
 
-<!-- BADGES/ -->
+A Sass/CSS library to point out some bad or malformed HTML.
 
 [![NPM version](https://img.shields.io/npm/v/html-verify.svg)](https://npmjs.org/package/html-verify "View this project on NPM")
 [![NPM downloads](https://img.shields.io/npm/dm/html-verify.svg)](https://npmjs.org/package/html-verify "View this project on NPM")
@@ -11,40 +10,28 @@
 [![Gratipay donate button](https://img.shields.io/gratipay/chrisopedia.svg)](https://www.gratipay.com/chrisopedia/ "Donate weekly to this project using Gratipay")
 [![Bitdeli Badge](https://d2weczhvl823v0.cloudfront.net/apermanentwreck/html-verify/trend.png)](https://bitdeli.com/free "Bitdeli Badge")
 
-<!-- /BADGES -->
+## Browser Support
 
-<!-- DESCRIPTION/ -->
+- Google Chrome 28+
+- Mozilla Firefox 22+
+- Apple Safari 5.1+
+- Opera 16+
+- Internet Explorer 9+
 
-A CSS library to point out some bad or malformed HTML.
+## Installation
 
-<!-- /DESCRIPTION -->
+- via [NPM](http://npmjs.org/): `npm install --save html-verify`
+- via [Component](http://github.com/component/component): `component install chrisopedia/html-verify`
+- via [Bower](http://bower.io/): `bower install html-verify`
 
-<!-- INSTALL/ -->
+### As a Git Submodule
 
-## Install
-
-### [NPM](http://npmjs.org/)
-- Use: `require('html-verify')`
-- Install: `npm install --save html-verify`
-
-### [Component](http://github.com/component/component)
-- Use: `require('html-verify')`
-- Install: `component install chrisopedia/html-verify`
-
-### [Bower](http://bower.io/)
-- Use: `require('html-verify')`
-- Install: `bower install html-verify`
-
-<!-- /INSTALL -->
-
-### Git Submodule
-
-1. `git submodule add git@github.com:apermanentwreck/html-verify.git path/to/ui_directory`
+1. `git submodule add https://github.com/chrisopedia/html-verify.git path/to/ui_directory`
 2. Add link: `<link rel="stylesheet" href="/path/to/ui_directory/html-verify/html-verify.css />`
 
 ### Manual Download
 
-[Latest - v.0.1.3](/https://github.com/apermanentwreck/html-verify/archive/master.zip)
+[Latest - v.1.0.1](/https://github.com/chrisopedia/html-verify/archive/master.zip)
 
 <!-- CONTRIBUTE/ -->
 
@@ -52,7 +39,11 @@ A CSS library to point out some bad or malformed HTML.
 
 [Discover how you can contribute by heading on over to the `CONTRIBUTING.md` file.](https://github.com/chrisopedia/html-verify/blob/master/CONTRIBUTING.md#files)
 
-<!-- /CONTRIBUTE -->
+## Documentation
+
+Documentation is built as a Jekyll-based site that shows you examples of all of
+the ways poor code will trigger HTML Verify.  In order to get it running, you'll
+need the following:
 
 ### Requirements
 
@@ -62,19 +53,12 @@ A CSS library to point out some bad or malformed HTML.
 ### Setup
 
 1. `npm install`
-2. `grunt`
-
-## Browser Support
-
-- Google Chrome 28+
-- Mozilla Firefox 22+
-- Apple Safari 5.1+
-- Opera 16+
-- Internet Explorer 9+
+2. `grunt dev`
+3. Open `127.0.0.1:8000`
 
 ## Acknowledgements
 
-HTML Verify is a project by [Newton](http://github.com/apermanentwreck/). Inspired by a few projects:
+HTML Verify is a project by [Newton](http://github.com/chrisopedia/). Inspired by a few projects:
 
 1. [Semantic CSS with Intelligent Selectors](http://coding.smashingmagazine.com/2013/08/20/semantic-css-with-intelligent-selectors/)
 2. [DiagnostiCSS](https://github.com/diagnosticss/diagnosticss)

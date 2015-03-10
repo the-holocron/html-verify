@@ -1,7 +1,7 @@
 {
   "name": "html-verify",
-  "version": "0.2.0",
-  "description": "A CSS library to point out some bad or malformed HTML.",
+  "version": "1.0.1",
+  "description": "A Sass/CSS library to point out some bad or malformed HTML.",
   "keywords": [
     "html",
     "css",
@@ -19,8 +19,8 @@
     "url": "https://github.com/chrisopedia/html-verify/issues"
   },
   "main": [
-    "./html-verify.css",
-    "./html-verify.min.css"
+    "./dist/html-verify.css",
+    "./dist/html-verify.min.css"
   ],
   "license": {
     "type": "MIT",
@@ -38,11 +38,5 @@
     "grunt-contrib-sass": "^0.9.2",
     "grunt-contrib-watch": "^0.6.1",
     "grunt-jekyll": "^0.4.2"
-  },
-  "dependencies": {
-    "projectz": "^0.5.0"
-  },
-  "scripts": {
-    "compile": "node ./node_modules/projectz/bin/projectz compile"
   }
 }
