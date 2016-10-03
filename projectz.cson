@@ -26,11 +26,11 @@
 
     # Project's author details
     # Can be an array or CSV string
-    authors: ["2014+ Chris Newton <chrisohpedia@gmail.com> (http://chrisnewton.me/about)"]
+    authors: ["2014+ Newton Koumantzelis <chrisohpedia@gmail.com> (http://chrisnewton.me/about)"]
 
     # Maintainers
     # Can be an array or CSV string
-    maintainers: ["Chris Newton (chrisohpedia@gmail.com) (http://chrisnewton.me/about)"]
+    maintainers: null
 
     # Contributors
     # Pulled in automatically from the GitHub Repository API and the GitHub Repository's `package.json` file

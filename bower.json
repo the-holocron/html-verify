@@ -1,19 +1,16 @@
 {
   "name": "html-verify",
   "version": "1.0.2",
-  "description": "A Sass/CSS library to point out some bad or malformed HTML.",
+  "description": "A scss/CSS library to point out some bad or malformed HTML.",
   "keywords": [
     "html",
     "css",
-    "sass",
+    "scss",
     "debug",
     "validation",
     "validator"
   ],
-  "main": [
-    "./dist/html-verify.css",
-    "./dist/html-verify.min.css"
-  ],
+  "main": "./dist/html-verify.css",
   "license": "MIT",
   "ignore": [
     "**/.*",

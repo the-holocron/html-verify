@@ -1,14 +1,12 @@
 # HTML Verify
 
-A Sass/CSS library to point out some bad or malformed HTML.
+A scss/CSS library to point out some bad or malformed HTML.
 
 [![NPM version](https://img.shields.io/npm/v/html-verify.svg)](https://npmjs.org/package/html-verify "View this project on NPM")
 [![NPM downloads](https://img.shields.io/npm/dm/html-verify.svg)](https://npmjs.org/package/html-verify "View this project on NPM")
-[![Stories in Ready](https://badge.waffle.io/chrisopedia/html-verify.png?label=ready)](http://waffle.io/chrisopedia/html-verify)
 [![Dependency Status](https://img.shields.io/david/chrisopedia/html-verify.svg)](https://david-dm.org/chrisopedia/html-verify)
 [![Dev Dependency Status](https://img.shields.io/david/dev/chrisopedia/html-verify.svg)](https://david-dm.org/chrisopedia/html-verify#info=devDependencies)<br/>
 [![Gratipay donate button](https://img.shields.io/gratipay/chrisopedia.svg)](https://www.gratipay.com/chrisopedia/ "Donate weekly to this project using Gratipay")
-[![Bitdeli Badge](https://d2weczhvl823v0.cloudfront.net/apermanentwreck/html-verify/trend.png)](https://bitdeli.com/free "Bitdeli Badge")
 
 ## Browser Support
 

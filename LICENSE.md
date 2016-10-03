@@ -1,6 +1,6 @@
 # The MIT License (MIT)
 
-**Copyright :copyright: 2014** [Chris Newton](http://chrisopedia.me/) (aka
+**Copyright :copyright: 2016** [Chris Newton](http://chrisopedia.me/) (aka
 [@chrisopedia](https://github.com/chrisopedia),
 [chrisOHpedia](https://twitter.com/chrisohpedia),
 [chrisohpedia](https://plus.google.com/u/0/+ChrisNewtonChrisopedia/posts),
