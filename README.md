@@ -48,13 +48,12 @@ need the following:
 ### Requirements
 
 - [Node](http://nodejs.org/) & [npm](https://npmjs.org/)
-- [Grunt](http://gruntjs.com/) (`npm instal -g grunt-cli`)
 
 ### Setup
 
 1. `npm install`
-2. `grunt dev`
-3. Open `127.0.0.1:8000`
+2. `npm start`
+3. Open `127.0.0.1:<port>`
 
 ## Acknowledgements
 
