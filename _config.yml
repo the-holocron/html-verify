@@ -4,5 +4,6 @@ permalink: pretty
 # Server
 source: docs
 
-kramdown:
-  input: GFM
+keep_files:
+  - 'dist'
+
