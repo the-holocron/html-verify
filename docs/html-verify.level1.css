@@ -1,0 +1,2498 @@
+acronym, applet, basefont, big, center, dir, font, frame, frameset, isindex, listing, multicol, plaintext, strike, xmp, bgsound, blink, comment, marquee, nobr, noembed, wbr, [align], [alink], [background], [bgcolor], [border], [clear], [height], [hspace], [link], [nowrap], [start], [vlink], [vspace], script[language], script[type], table[summary], abbr address, b address, bdo address, button address, cite address, code address, dfn address, em address, i address, input address, kbd address, label address, map address, object address, q address, samp address, select address, small address, span address, strong address, sub address, sup address, textarea address, var address, abbr blockquote, b blockquote, bdo blockquote, button blockquote, cite blockquote, code blockquote, dfn blockquote, em blockquote, i blockquote, input blockquote, kbd blockquote, label blockquote, map blockquote, object blockquote, q blockquote, samp blockquote, select blockquote, small blockquote, span blockquote, strong blockquote, sub blockquote, sup blockquote, textarea blockquote, var blockquote, abbr dd, b dd, bdo dd, button dd, cite dd, code dd, dfn dd, em dd, i dd, input dd, kbd dd, label dd, map dd, object dd, q dd, samp dd, select dd, small dd, span dd, strong dd, sub dd, sup dd, textarea dd, var dd, abbr div, b div, bdo div, button div, cite div, code div, dfn div, em div, i div, input div, kbd div, label div, map div, object div, q div, samp div, select div, small div, span div, strong div, sub div, sup div, textarea div, var div, abbr dl, b dl, bdo dl, button dl, cite dl, code dl, dfn dl, em dl, i dl, input dl, kbd dl, label dl, map dl, object dl, q dl, samp dl, select dl, small dl, span dl, strong dl, sub dl, sup dl, textarea dl, var dl, abbr fieldset, b fieldset, bdo fieldset, button fieldset, cite fieldset, code fieldset, dfn fieldset, em fieldset, i fieldset, input fieldset, kbd fieldset, label fieldset, map fieldset, object fieldset, q fieldset, samp fieldset, select fieldset, small fieldset, span fieldset, strong fieldset, sub fieldset, sup fieldset, textarea fieldset, var fieldset, abbr form, b form, bdo form, button form, cite form, code form, dfn form, em form, i form, input form, kbd form, label form, map form, object form, q form, samp form, select form, small form, span form, strong form, sub form, sup form, textarea form, var form, abbr h1, b h1, bdo h1, button h1, cite h1, code h1, dfn h1, em h1, i h1, input h1, kbd h1, label h1, map h1, object h1, q h1, samp h1, select h1, small h1, span h1, strong h1, sub h1, sup h1, textarea h1, var h1, abbr h2, b h2, bdo h2, button h2, cite h2, code h2, dfn h2, em h2, i h2, input h2, kbd h2, label h2, map h2, object h2, q h2, samp h2, select h2, small h2, span h2, strong h2, sub h2, sup h2, textarea h2, var h2, abbr h3, b h3, bdo h3, button h3, cite h3, code h3, dfn h3, em h3, i h3, input h3, kbd h3, label h3, map h3, object h3, q h3, samp h3, select h3, small h3, span h3, strong h3, sub h3, sup h3, textarea h3, var h3, abbr h4, b h4, bdo h4, button h4, cite h4, code h4, dfn h4, em h4, i h4, input h4, kbd h4, label h4, map h4, object h4, q h4, samp h4, select h4, small h4, span h4, strong h4, sub h4, sup h4, textarea h4, var h4, abbr h5, b h5, bdo h5, button h5, cite h5, code h5, dfn h5, em h5, i h5, input h5, kbd h5, label h5, map h5, object h5, q h5, samp h5, select h5, small h5, span h5, strong h5, sub h5, sup h5, textarea h5, var h5, abbr h6, b h6, bdo h6, button h6, cite h6, code h6, dfn h6, em h6, i h6, input h6, kbd h6, label h6, map h6, object h6, q h6, samp h6, select h6, small h6, span h6, strong h6, sub h6, sup h6, textarea h6, var h6, abbr hr, b hr, bdo hr, button hr, cite hr, code hr, dfn hr, em hr, i hr, input hr, kbd hr, label hr, map hr, object hr, q hr, samp hr, select hr, small hr, span hr, strong hr, sub hr, sup hr, textarea hr, var hr, abbr noscript, b noscript, bdo noscript, button noscript, cite noscript, code noscript, dfn noscript, em noscript, i noscript, input noscript, kbd noscript, label noscript, map noscript, object noscript, q noscript, samp noscript, select noscript, small noscript, span noscript, strong noscript, sub noscript, sup noscript, textarea noscript, var noscript, abbr ol, b ol, bdo ol, button ol, cite ol, code ol, dfn ol, em ol, i ol, input ol, kbd ol, label ol, map ol, object ol, q ol, samp ol, select ol, small ol, span ol, strong ol, sub ol, sup ol, textarea ol, var ol, abbr p, b p, bdo p, button p, cite p, code p, dfn p, em p, i p, input p, kbd p, label p, map p, object p, q p, samp p, select p, small p, span p, strong p, sub p, sup p, textarea p, var p, abbr pre, b pre, bdo pre, button pre, cite pre, code pre, dfn pre, em pre, i pre, input pre, kbd pre, label pre, map pre, object pre, q pre, samp pre, select pre, small pre, span pre, strong pre, sub pre, sup pre, textarea pre, var pre, abbr table, b table, bdo table, button table, cite table, code table, dfn table, em table, i table, input table, kbd table, label table, map table, object table, q table, samp table, select table, small table, span table, strong table, sub table, sup table, textarea table, var table, abbr ul, b ul, bdo ul, button ul, cite ul, code ul, dfn ul, em ul, i ul, input ul, kbd ul, label ul, map ul, object ul, q ul, samp ul, select ul, small ul, span ul, strong ul, sub ul, sup ul, textarea ul, var ul, abbr article, b article, bdo article, button article, cite article, code article, dfn article, em article, i article, input article, kbd article, label article, map article, object article, q article, samp article, select article, small article, span article, strong article, sub article, sup article, textarea article, var article, abbr aside, b aside, bdo aside, button aside, cite aside, code aside, dfn aside, em aside, i aside, input aside, kbd aside, label aside, map aside, object aside, q aside, samp aside, select aside, small aside, span aside, strong aside, sub aside, sup aside, textarea aside, var aside, abbr audio, b audio, bdo audio, button audio, cite audio, code audio, dfn audio, em audio, i audio, input audio, kbd audio, label audio, map audio, object audio, q audio, samp audio, select audio, small audio, span audio, strong audio, sub audio, sup audio, textarea audio, var audio, abbr canvas, b canvas, bdo canvas, button canvas, cite canvas, code canvas, dfn canvas, em canvas, i canvas, input canvas, kbd canvas, label canvas, map canvas, object canvas, q canvas, samp canvas, select canvas, small canvas, span canvas, strong canvas, sub canvas, sup canvas, textarea canvas, var canvas, abbr figcaption, b figcaption, bdo figcaption, button figcaption, cite figcaption, code figcaption, dfn figcaption, em figcaption, i figcaption, input figcaption, kbd figcaption, label figcaption, map figcaption, object figcaption, q figcaption, samp figcaption, select figcaption, small figcaption, span figcaption, strong figcaption, sub figcaption, sup figcaption, textarea figcaption, var figcaption, abbr figure, b figure, bdo figure, button figure, cite figure, code figure, dfn figure, em figure, i figure, input figure, kbd figure, label figure, map figure, object figure, q figure, samp figure, select figure, small figure, span figure, strong figure, sub figure, sup figure, textarea figure, var figure, abbr footer, b footer, bdo footer, button footer, cite footer, code footer, dfn footer, em footer, i footer, input footer, kbd footer, label footer, map footer, object footer, q footer, samp footer, select footer, small footer, span footer, strong footer, sub footer, sup footer, textarea footer, var footer, abbr header, b header, bdo header, button header, cite header, code header, dfn header, em header, i header, input header, kbd header, label header, map header, object header, q header, samp header, select header, small header, span header, strong header, sub header, sup header, textarea header, var header, abbr hgroup, b hgroup, bdo hgroup, button hgroup, cite hgroup, code hgroup, dfn hgroup, em hgroup, i hgroup, input hgroup, kbd hgroup, label hgroup, map hgroup, object hgroup, q hgroup, samp hgroup, select hgroup, small hgroup, span hgroup, strong hgroup, sub hgroup, sup hgroup, textarea hgroup, var hgroup, abbr output, b output, bdo output, button output, cite output, code output, dfn output, em output, i output, input output, kbd output, label output, map output, object output, q output, samp output, select output, small output, span output, strong output, sub output, sup output, textarea output, var output, abbr section, b section, bdo section, button section, cite section, code section, dfn section, em section, i section, input section, kbd section, label section, map section, object section, q section, samp section, select section, small section, span section, strong section, sub section, sup section, textarea section, var section, abbr video, b video, bdo video, button video, cite video, code video, dfn video, em video, i video, input video, kbd video, label video, map video, object video, q video, samp video, select video, small video, span video, strong video, sub video, sup video, textarea video, var video, img:not([src]), figcaption, ol > *:not(li),
+ul > *:not(li), dl > *:not(dt):not(dd), dt + *:not(dd) {
+  position: relative; }
+  acronym::before, applet::before, basefont::before, big::before, center::before, dir::before, font::before, frame::before, frameset::before, isindex::before, listing::before, multicol::before, plaintext::before, strike::before, xmp::before, bgsound::before, blink::before, comment::before, marquee::before, nobr::before, noembed::before, wbr::before, [align]::before, [alink]::before, [background]::before, [bgcolor]::before, [border]::before, [clear]::before, [height]::before, [hspace]::before, [link]::before, [nowrap]::before, [start]::before, [vlink]::before, [vspace]::before, script[language]::before, script[type]::before, table[summary]::before, abbr address::before, b address::before, bdo address::before, button address::before, cite address::before, code address::before, dfn address::before, em address::before, i address::before, input address::before, kbd address::before, label address::before, map address::before, object address::before, q address::before, samp address::before, select address::before, small address::before, span address::before, strong address::before, sub address::before, sup address::before, textarea address::before, var address::before, abbr blockquote::before, b blockquote::before, bdo blockquote::before, button blockquote::before, cite blockquote::before, code blockquote::before, dfn blockquote::before, em blockquote::before, i blockquote::before, input blockquote::before, kbd blockquote::before, label blockquote::before, map blockquote::before, object blockquote::before, q blockquote::before, samp blockquote::before, select blockquote::before, small blockquote::before, span blockquote::before, strong blockquote::before, sub blockquote::before, sup blockquote::before, textarea blockquote::before, var blockquote::before, abbr dd::before, b dd::before, bdo dd::before, button dd::before, cite dd::before, code dd::before, dfn dd::before, em dd::before, i dd::before, input dd::before, kbd dd::before, label dd::before, map dd::before, object dd::before, q dd::before, samp dd::before, select dd::before, small dd::before, span dd::before, strong dd::before, sub dd::before, sup dd::before, textarea dd::before, var dd::before, abbr div::before, b div::before, bdo div::before, button div::before, cite div::before, code div::before, dfn div::before, em div::before, i div::before, input div::before, kbd div::before, label div::before, map div::before, object div::before, q div::before, samp div::before, select div::before, small div::before, span div::before, strong div::before, sub div::before, sup div::before, textarea div::before, var div::before, abbr dl::before, b dl::before, bdo dl::before, button dl::before, cite dl::before, code dl::before, dfn dl::before, em dl::before, i dl::before, input dl::before, kbd dl::before, label dl::before, map dl::before, object dl::before, q dl::before, samp dl::before, select dl::before, small dl::before, span dl::before, strong dl::before, sub dl::before, sup dl::before, textarea dl::before, var dl::before, abbr fieldset::before, b fieldset::before, bdo fieldset::before, button fieldset::before, cite fieldset::before, code fieldset::before, dfn fieldset::before, em fieldset::before, i fieldset::before, input fieldset::before, kbd fieldset::before, label fieldset::before, map fieldset::before, object fieldset::before, q fieldset::before, samp fieldset::before, select fieldset::before, small fieldset::before, span fieldset::before, strong fieldset::before, sub fieldset::before, sup fieldset::before, textarea fieldset::before, var fieldset::before, abbr form::before, b form::before, bdo form::before, button form::before, cite form::before, code form::before, dfn form::before, em form::before, i form::before, input form::before, kbd form::before, label form::before, map form::before, object form::before, q form::before, samp form::before, select form::before, small form::before, span form::before, strong form::before, sub form::before, sup form::before, textarea form::before, var form::before, abbr h1::before, b h1::before, bdo h1::before, button h1::before, cite h1::before, code h1::before, dfn h1::before, em h1::before, i h1::before, input h1::before, kbd h1::before, label h1::before, map h1::before, object h1::before, q h1::before, samp h1::before, select h1::before, small h1::before, span h1::before, strong h1::before, sub h1::before, sup h1::before, textarea h1::before, var h1::before, abbr h2::before, b h2::before, bdo h2::before, button h2::before, cite h2::before, code h2::before, dfn h2::before, em h2::before, i h2::before, input h2::before, kbd h2::before, label h2::before, map h2::before, object h2::before, q h2::before, samp h2::before, select h2::before, small h2::before, span h2::before, strong h2::before, sub h2::before, sup h2::before, textarea h2::before, var h2::before, abbr h3::before, b h3::before, bdo h3::before, button h3::before, cite h3::before, code h3::before, dfn h3::before, em h3::before, i h3::before, input h3::before, kbd h3::before, label h3::before, map h3::before, object h3::before, q h3::before, samp h3::before, select h3::before, small h3::before, span h3::before, strong h3::before, sub h3::before, sup h3::before, textarea h3::before, var h3::before, abbr h4::before, b h4::before, bdo h4::before, button h4::before, cite h4::before, code h4::before, dfn h4::before, em h4::before, i h4::before, input h4::before, kbd h4::before, label h4::before, map h4::before, object h4::before, q h4::before, samp h4::before, select h4::before, small h4::before, span h4::before, strong h4::before, sub h4::before, sup h4::before, textarea h4::before, var h4::before, abbr h5::before, b h5::before, bdo h5::before, button h5::before, cite h5::before, code h5::before, dfn h5::before, em h5::before, i h5::before, input h5::before, kbd h5::before, label h5::before, map h5::before, object h5::before, q h5::before, samp h5::before, select h5::before, small h5::before, span h5::before, strong h5::before, sub h5::before, sup h5::before, textarea h5::before, var h5::before, abbr h6::before, b h6::before, bdo h6::before, button h6::before, cite h6::before, code h6::before, dfn h6::before, em h6::before, i h6::before, input h6::before, kbd h6::before, label h6::before, map h6::before, object h6::before, q h6::before, samp h6::before, select h6::before, small h6::before, span h6::before, strong h6::before, sub h6::before, sup h6::before, textarea h6::before, var h6::before, abbr hr::before, b hr::before, bdo hr::before, button hr::before, cite hr::before, code hr::before, dfn hr::before, em hr::before, i hr::before, input hr::before, kbd hr::before, label hr::before, map hr::before, object hr::before, q hr::before, samp hr::before, select hr::before, small hr::before, span hr::before, strong hr::before, sub hr::before, sup hr::before, textarea hr::before, var hr::before, abbr noscript::before, b noscript::before, bdo noscript::before, button noscript::before, cite noscript::before, code noscript::before, dfn noscript::before, em noscript::before, i noscript::before, input noscript::before, kbd noscript::before, label noscript::before, map noscript::before, object noscript::before, q noscript::before, samp noscript::before, select noscript::before, small noscript::before, span noscript::before, strong noscript::before, sub noscript::before, sup noscript::before, textarea noscript::before, var noscript::before, abbr ol::before, b ol::before, bdo ol::before, button ol::before, cite ol::before, code ol::before, dfn ol::before, em ol::before, i ol::before, input ol::before, kbd ol::before, label ol::before, map ol::before, object ol::before, q ol::before, samp ol::before, select ol::before, small ol::before, span ol::before, strong ol::before, sub ol::before, sup ol::before, textarea ol::before, var ol::before, abbr p::before, b p::before, bdo p::before, button p::before, cite p::before, code p::before, dfn p::before, em p::before, i p::before, input p::before, kbd p::before, label p::before, map p::before, object p::before, q p::before, samp p::before, select p::before, small p::before, span p::before, strong p::before, sub p::before, sup p::before, textarea p::before, var p::before, abbr pre::before, b pre::before, bdo pre::before, button pre::before, cite pre::before, code pre::before, dfn pre::before, em pre::before, i pre::before, input pre::before, kbd pre::before, label pre::before, map pre::before, object pre::before, q pre::before, samp pre::before, select pre::before, small pre::before, span pre::before, strong pre::before, sub pre::before, sup pre::before, textarea pre::before, var pre::before, abbr table::before, b table::before, bdo table::before, button table::before, cite table::before, code table::before, dfn table::before, em table::before, i table::before, input table::before, kbd table::before, label table::before, map table::before, object table::before, q table::before, samp table::before, select table::before, small table::before, span table::before, strong table::before, sub table::before, sup table::before, textarea table::before, var table::before, abbr ul::before, b ul::before, bdo ul::before, button ul::before, cite ul::before, code ul::before, dfn ul::before, em ul::before, i ul::before, input ul::before, kbd ul::before, label ul::before, map ul::before, object ul::before, q ul::before, samp ul::before, select ul::before, small ul::before, span ul::before, strong ul::before, sub ul::before, sup ul::before, textarea ul::before, var ul::before, abbr article::before, b article::before, bdo article::before, button article::before, cite article::before, code article::before, dfn article::before, em article::before, i article::before, input article::before, kbd article::before, label article::before, map article::before, object article::before, q article::before, samp article::before, select article::before, small article::before, span article::before, strong article::before, sub article::before, sup article::before, textarea article::before, var article::before, abbr aside::before, b aside::before, bdo aside::before, button aside::before, cite aside::before, code aside::before, dfn aside::before, em aside::before, i aside::before, input aside::before, kbd aside::before, label aside::before, map aside::before, object aside::before, q aside::before, samp aside::before, select aside::before, small aside::before, span aside::before, strong aside::before, sub aside::before, sup aside::before, textarea aside::before, var aside::before, abbr audio::before, b audio::before, bdo audio::before, button audio::before, cite audio::before, code audio::before, dfn audio::before, em audio::before, i audio::before, input audio::before, kbd audio::before, label audio::before, map audio::before, object audio::before, q audio::before, samp audio::before, select audio::before, small audio::before, span audio::before, strong audio::before, sub audio::before, sup audio::before, textarea audio::before, var audio::before, abbr canvas::before, b canvas::before, bdo canvas::before, button canvas::before, cite canvas::before, code canvas::before, dfn canvas::before, em canvas::before, i canvas::before, input canvas::before, kbd canvas::before, label canvas::before, map canvas::before, object canvas::before, q canvas::before, samp canvas::before, select canvas::before, small canvas::before, span canvas::before, strong canvas::before, sub canvas::before, sup canvas::before, textarea canvas::before, var canvas::before, abbr figcaption::before, b figcaption::before, bdo figcaption::before, button figcaption::before, cite figcaption::before, code figcaption::before, dfn figcaption::before, em figcaption::before, i figcaption::before, input figcaption::before, kbd figcaption::before, label figcaption::before, map figcaption::before, object figcaption::before, q figcaption::before, samp figcaption::before, select figcaption::before, small figcaption::before, span figcaption::before, strong figcaption::before, sub figcaption::before, sup figcaption::before, textarea figcaption::before, var figcaption::before, abbr figure::before, b figure::before, bdo figure::before, button figure::before, cite figure::before, code figure::before, dfn figure::before, em figure::before, i figure::before, input figure::before, kbd figure::before, label figure::before, map figure::before, object figure::before, q figure::before, samp figure::before, select figure::before, small figure::before, span figure::before, strong figure::before, sub figure::before, sup figure::before, textarea figure::before, var figure::before, abbr footer::before, b footer::before, bdo footer::before, button footer::before, cite footer::before, code footer::before, dfn footer::before, em footer::before, i footer::before, input footer::before, kbd footer::before, label footer::before, map footer::before, object footer::before, q footer::before, samp footer::before, select footer::before, small footer::before, span footer::before, strong footer::before, sub footer::before, sup footer::before, textarea footer::before, var footer::before, abbr header::before, b header::before, bdo header::before, button header::before, cite header::before, code header::before, dfn header::before, em header::before, i header::before, input header::before, kbd header::before, label header::before, map header::before, object header::before, q header::before, samp header::before, select header::before, small header::before, span header::before, strong header::before, sub header::before, sup header::before, textarea header::before, var header::before, abbr hgroup::before, b hgroup::before, bdo hgroup::before, button hgroup::before, cite hgroup::before, code hgroup::before, dfn hgroup::before, em hgroup::before, i hgroup::before, input hgroup::before, kbd hgroup::before, label hgroup::before, map hgroup::before, object hgroup::before, q hgroup::before, samp hgroup::before, select hgroup::before, small hgroup::before, span hgroup::before, strong hgroup::before, sub hgroup::before, sup hgroup::before, textarea hgroup::before, var hgroup::before, abbr output::before, b output::before, bdo output::before, button output::before, cite output::before, code output::before, dfn output::before, em output::before, i output::before, input output::before, kbd output::before, label output::before, map output::before, object output::before, q output::before, samp output::before, select output::before, small output::before, span output::before, strong output::before, sub output::before, sup output::before, textarea output::before, var output::before, abbr section::before, b section::before, bdo section::before, button section::before, cite section::before, code section::before, dfn section::before, em section::before, i section::before, input section::before, kbd section::before, label section::before, map section::before, object section::before, q section::before, samp section::before, select section::before, small section::before, span section::before, strong section::before, sub section::before, sup section::before, textarea section::before, var section::before, abbr video::before, b video::before, bdo video::before, button video::before, cite video::before, code video::before, dfn video::before, em video::before, i video::before, input video::before, kbd video::before, label video::before, map video::before, object video::before, q video::before, samp video::before, select video::before, small video::before, span video::before, strong video::before, sub video::before, sup video::before, textarea video::before, var video::before, img:not([src])::before, figcaption::before, ol > :not(li)::before,
+  ul > :not(li)::before, dl > :not(dd):not(dt)::before, dt + :not(dd)::before {
+    position: absolute;
+    top: 0;
+    right: 0;
+    bottom: 0;
+    left: 0;
+    outline: 0.125rem solid #ac4142;
+    content: ''; }
+  acronym::after, applet::after, basefont::after, big::after, center::after, dir::after, font::after, frame::after, frameset::after, isindex::after, listing::after, multicol::after, plaintext::after, strike::after, xmp::after, bgsound::after, blink::after, comment::after, marquee::after, nobr::after, noembed::after, wbr::after, [align]::after, [alink]::after, [background]::after, [bgcolor]::after, [border]::after, [clear]::after, [height]::after, [hspace]::after, [link]::after, [nowrap]::after, [start]::after, [vlink]::after, [vspace]::after, script[language]::after, script[type]::after, table[summary]::after, abbr address::after, b address::after, bdo address::after, button address::after, cite address::after, code address::after, dfn address::after, em address::after, i address::after, input address::after, kbd address::after, label address::after, map address::after, object address::after, q address::after, samp address::after, select address::after, small address::after, span address::after, strong address::after, sub address::after, sup address::after, textarea address::after, var address::after, abbr blockquote::after, b blockquote::after, bdo blockquote::after, button blockquote::after, cite blockquote::after, code blockquote::after, dfn blockquote::after, em blockquote::after, i blockquote::after, input blockquote::after, kbd blockquote::after, label blockquote::after, map blockquote::after, object blockquote::after, q blockquote::after, samp blockquote::after, select blockquote::after, small blockquote::after, span blockquote::after, strong blockquote::after, sub blockquote::after, sup blockquote::after, textarea blockquote::after, var blockquote::after, abbr dd::after, b dd::after, bdo dd::after, button dd::after, cite dd::after, code dd::after, dfn dd::after, em dd::after, i dd::after, input dd::after, kbd dd::after, label dd::after, map dd::after, object dd::after, q dd::after, samp dd::after, select dd::after, small dd::after, span dd::after, strong dd::after, sub dd::after, sup dd::after, textarea dd::after, var dd::after, abbr div::after, b div::after, bdo div::after, button div::after, cite div::after, code div::after, dfn div::after, em div::after, i div::after, input div::after, kbd div::after, label div::after, map div::after, object div::after, q div::after, samp div::after, select div::after, small div::after, span div::after, strong div::after, sub div::after, sup div::after, textarea div::after, var div::after, abbr dl::after, b dl::after, bdo dl::after, button dl::after, cite dl::after, code dl::after, dfn dl::after, em dl::after, i dl::after, input dl::after, kbd dl::after, label dl::after, map dl::after, object dl::after, q dl::after, samp dl::after, select dl::after, small dl::after, span dl::after, strong dl::after, sub dl::after, sup dl::after, textarea dl::after, var dl::after, abbr fieldset::after, b fieldset::after, bdo fieldset::after, button fieldset::after, cite fieldset::after, code fieldset::after, dfn fieldset::after, em fieldset::after, i fieldset::after, input fieldset::after, kbd fieldset::after, label fieldset::after, map fieldset::after, object fieldset::after, q fieldset::after, samp fieldset::after, select fieldset::after, small fieldset::after, span fieldset::after, strong fieldset::after, sub fieldset::after, sup fieldset::after, textarea fieldset::after, var fieldset::after, abbr form::after, b form::after, bdo form::after, button form::after, cite form::after, code form::after, dfn form::after, em form::after, i form::after, input form::after, kbd form::after, label form::after, map form::after, object form::after, q form::after, samp form::after, select form::after, small form::after, span form::after, strong form::after, sub form::after, sup form::after, textarea form::after, var form::after, abbr h1::after, b h1::after, bdo h1::after, button h1::after, cite h1::after, code h1::after, dfn h1::after, em h1::after, i h1::after, input h1::after, kbd h1::after, label h1::after, map h1::after, object h1::after, q h1::after, samp h1::after, select h1::after, small h1::after, span h1::after, strong h1::after, sub h1::after, sup h1::after, textarea h1::after, var h1::after, abbr h2::after, b h2::after, bdo h2::after, button h2::after, cite h2::after, code h2::after, dfn h2::after, em h2::after, i h2::after, input h2::after, kbd h2::after, label h2::after, map h2::after, object h2::after, q h2::after, samp h2::after, select h2::after, small h2::after, span h2::after, strong h2::after, sub h2::after, sup h2::after, textarea h2::after, var h2::after, abbr h3::after, b h3::after, bdo h3::after, button h3::after, cite h3::after, code h3::after, dfn h3::after, em h3::after, i h3::after, input h3::after, kbd h3::after, label h3::after, map h3::after, object h3::after, q h3::after, samp h3::after, select h3::after, small h3::after, span h3::after, strong h3::after, sub h3::after, sup h3::after, textarea h3::after, var h3::after, abbr h4::after, b h4::after, bdo h4::after, button h4::after, cite h4::after, code h4::after, dfn h4::after, em h4::after, i h4::after, input h4::after, kbd h4::after, label h4::after, map h4::after, object h4::after, q h4::after, samp h4::after, select h4::after, small h4::after, span h4::after, strong h4::after, sub h4::after, sup h4::after, textarea h4::after, var h4::after, abbr h5::after, b h5::after, bdo h5::after, button h5::after, cite h5::after, code h5::after, dfn h5::after, em h5::after, i h5::after, input h5::after, kbd h5::after, label h5::after, map h5::after, object h5::after, q h5::after, samp h5::after, select h5::after, small h5::after, span h5::after, strong h5::after, sub h5::after, sup h5::after, textarea h5::after, var h5::after, abbr h6::after, b h6::after, bdo h6::after, button h6::after, cite h6::after, code h6::after, dfn h6::after, em h6::after, i h6::after, input h6::after, kbd h6::after, label h6::after, map h6::after, object h6::after, q h6::after, samp h6::after, select h6::after, small h6::after, span h6::after, strong h6::after, sub h6::after, sup h6::after, textarea h6::after, var h6::after, abbr hr::after, b hr::after, bdo hr::after, button hr::after, cite hr::after, code hr::after, dfn hr::after, em hr::after, i hr::after, input hr::after, kbd hr::after, label hr::after, map hr::after, object hr::after, q hr::after, samp hr::after, select hr::after, small hr::after, span hr::after, strong hr::after, sub hr::after, sup hr::after, textarea hr::after, var hr::after, abbr noscript::after, b noscript::after, bdo noscript::after, button noscript::after, cite noscript::after, code noscript::after, dfn noscript::after, em noscript::after, i noscript::after, input noscript::after, kbd noscript::after, label noscript::after, map noscript::after, object noscript::after, q noscript::after, samp noscript::after, select noscript::after, small noscript::after, span noscript::after, strong noscript::after, sub noscript::after, sup noscript::after, textarea noscript::after, var noscript::after, abbr ol::after, b ol::after, bdo ol::after, button ol::after, cite ol::after, code ol::after, dfn ol::after, em ol::after, i ol::after, input ol::after, kbd ol::after, label ol::after, map ol::after, object ol::after, q ol::after, samp ol::after, select ol::after, small ol::after, span ol::after, strong ol::after, sub ol::after, sup ol::after, textarea ol::after, var ol::after, abbr p::after, b p::after, bdo p::after, button p::after, cite p::after, code p::after, dfn p::after, em p::after, i p::after, input p::after, kbd p::after, label p::after, map p::after, object p::after, q p::after, samp p::after, select p::after, small p::after, span p::after, strong p::after, sub p::after, sup p::after, textarea p::after, var p::after, abbr pre::after, b pre::after, bdo pre::after, button pre::after, cite pre::after, code pre::after, dfn pre::after, em pre::after, i pre::after, input pre::after, kbd pre::after, label pre::after, map pre::after, object pre::after, q pre::after, samp pre::after, select pre::after, small pre::after, span pre::after, strong pre::after, sub pre::after, sup pre::after, textarea pre::after, var pre::after, abbr table::after, b table::after, bdo table::after, button table::after, cite table::after, code table::after, dfn table::after, em table::after, i table::after, input table::after, kbd table::after, label table::after, map table::after, object table::after, q table::after, samp table::after, select table::after, small table::after, span table::after, strong table::after, sub table::after, sup table::after, textarea table::after, var table::after, abbr ul::after, b ul::after, bdo ul::after, button ul::after, cite ul::after, code ul::after, dfn ul::after, em ul::after, i ul::after, input ul::after, kbd ul::after, label ul::after, map ul::after, object ul::after, q ul::after, samp ul::after, select ul::after, small ul::after, span ul::after, strong ul::after, sub ul::after, sup ul::after, textarea ul::after, var ul::after, abbr article::after, b article::after, bdo article::after, button article::after, cite article::after, code article::after, dfn article::after, em article::after, i article::after, input article::after, kbd article::after, label article::after, map article::after, object article::after, q article::after, samp article::after, select article::after, small article::after, span article::after, strong article::after, sub article::after, sup article::after, textarea article::after, var article::after, abbr aside::after, b aside::after, bdo aside::after, button aside::after, cite aside::after, code aside::after, dfn aside::after, em aside::after, i aside::after, input aside::after, kbd aside::after, label aside::after, map aside::after, object aside::after, q aside::after, samp aside::after, select aside::after, small aside::after, span aside::after, strong aside::after, sub aside::after, sup aside::after, textarea aside::after, var aside::after, abbr audio::after, b audio::after, bdo audio::after, button audio::after, cite audio::after, code audio::after, dfn audio::after, em audio::after, i audio::after, input audio::after, kbd audio::after, label audio::after, map audio::after, object audio::after, q audio::after, samp audio::after, select audio::after, small audio::after, span audio::after, strong audio::after, sub audio::after, sup audio::after, textarea audio::after, var audio::after, abbr canvas::after, b canvas::after, bdo canvas::after, button canvas::after, cite canvas::after, code canvas::after, dfn canvas::after, em canvas::after, i canvas::after, input canvas::after, kbd canvas::after, label canvas::after, map canvas::after, object canvas::after, q canvas::after, samp canvas::after, select canvas::after, small canvas::after, span canvas::after, strong canvas::after, sub canvas::after, sup canvas::after, textarea canvas::after, var canvas::after, abbr figcaption::after, b figcaption::after, bdo figcaption::after, button figcaption::after, cite figcaption::after, code figcaption::after, dfn figcaption::after, em figcaption::after, i figcaption::after, input figcaption::after, kbd figcaption::after, label figcaption::after, map figcaption::after, object figcaption::after, q figcaption::after, samp figcaption::after, select figcaption::after, small figcaption::after, span figcaption::after, strong figcaption::after, sub figcaption::after, sup figcaption::after, textarea figcaption::after, var figcaption::after, abbr figure::after, b figure::after, bdo figure::after, button figure::after, cite figure::after, code figure::after, dfn figure::after, em figure::after, i figure::after, input figure::after, kbd figure::after, label figure::after, map figure::after, object figure::after, q figure::after, samp figure::after, select figure::after, small figure::after, span figure::after, strong figure::after, sub figure::after, sup figure::after, textarea figure::after, var figure::after, abbr footer::after, b footer::after, bdo footer::after, button footer::after, cite footer::after, code footer::after, dfn footer::after, em footer::after, i footer::after, input footer::after, kbd footer::after, label footer::after, map footer::after, object footer::after, q footer::after, samp footer::after, select footer::after, small footer::after, span footer::after, strong footer::after, sub footer::after, sup footer::after, textarea footer::after, var footer::after, abbr header::after, b header::after, bdo header::after, button header::after, cite header::after, code header::after, dfn header::after, em header::after, i header::after, input header::after, kbd header::after, label header::after, map header::after, object header::after, q header::after, samp header::after, select header::after, small header::after, span header::after, strong header::after, sub header::after, sup header::after, textarea header::after, var header::after, abbr hgroup::after, b hgroup::after, bdo hgroup::after, button hgroup::after, cite hgroup::after, code hgroup::after, dfn hgroup::after, em hgroup::after, i hgroup::after, input hgroup::after, kbd hgroup::after, label hgroup::after, map hgroup::after, object hgroup::after, q hgroup::after, samp hgroup::after, select hgroup::after, small hgroup::after, span hgroup::after, strong hgroup::after, sub hgroup::after, sup hgroup::after, textarea hgroup::after, var hgroup::after, abbr output::after, b output::after, bdo output::after, button output::after, cite output::after, code output::after, dfn output::after, em output::after, i output::after, input output::after, kbd output::after, label output::after, map output::after, object output::after, q output::after, samp output::after, select output::after, small output::after, span output::after, strong output::after, sub output::after, sup output::after, textarea output::after, var output::after, abbr section::after, b section::after, bdo section::after, button section::after, cite section::after, code section::after, dfn section::after, em section::after, i section::after, input section::after, kbd section::after, label section::after, map section::after, object section::after, q section::after, samp section::after, select section::after, small section::after, span section::after, strong section::after, sub section::after, sup section::after, textarea section::after, var section::after, abbr video::after, b video::after, bdo video::after, button video::after, cite video::after, code video::after, dfn video::after, em video::after, i video::after, input video::after, kbd video::after, label video::after, map video::after, object video::after, q video::after, samp video::after, select video::after, small video::after, span video::after, strong video::after, sub video::after, sup video::after, textarea video::after, var video::after, img:not([src])::after, figcaption::after, ol > :not(li)::after,
+  ul > :not(li)::after, dl > :not(dd):not(dt)::after, dt + :not(dd)::after {
+    display: none;
+    position: absolute;
+    top: 100%;
+    right: -.125rem;
+    padding: .25rem .75rem;
+    background-color: #ac4142;
+    color: white;
+    font-size: small;
+    white-space: nowrap; }
+  acronym:hover::after, applet:hover::after, basefont:hover::after, big:hover::after, center:hover::after, dir:hover::after, font:hover::after, frame:hover::after, frameset:hover::after, isindex:hover::after, listing:hover::after, multicol:hover::after, plaintext:hover::after, strike:hover::after, xmp:hover::after, bgsound:hover::after, blink:hover::after, comment:hover::after, marquee:hover::after, nobr:hover::after, noembed:hover::after, wbr:hover::after, [align]:hover::after, [alink]:hover::after, [background]:hover::after, [bgcolor]:hover::after, [border]:hover::after, [clear]:hover::after, [height]:hover::after, [hspace]:hover::after, [link]:hover::after, [nowrap]:hover::after, [start]:hover::after, [vlink]:hover::after, [vspace]:hover::after, script[language]:hover::after, script[type]:hover::after, table[summary]:hover::after, abbr address:hover::after, b address:hover::after, bdo address:hover::after, button address:hover::after, cite address:hover::after, code address:hover::after, dfn address:hover::after, em address:hover::after, i address:hover::after, input address:hover::after, kbd address:hover::after, label address:hover::after, map address:hover::after, object address:hover::after, q address:hover::after, samp address:hover::after, select address:hover::after, small address:hover::after, span address:hover::after, strong address:hover::after, sub address:hover::after, sup address:hover::after, textarea address:hover::after, var address:hover::after, abbr blockquote:hover::after, b blockquote:hover::after, bdo blockquote:hover::after, button blockquote:hover::after, cite blockquote:hover::after, code blockquote:hover::after, dfn blockquote:hover::after, em blockquote:hover::after, i blockquote:hover::after, input blockquote:hover::after, kbd blockquote:hover::after, label blockquote:hover::after, map blockquote:hover::after, object blockquote:hover::after, q blockquote:hover::after, samp blockquote:hover::after, select blockquote:hover::after, small blockquote:hover::after, span blockquote:hover::after, strong blockquote:hover::after, sub blockquote:hover::after, sup blockquote:hover::after, textarea blockquote:hover::after, var blockquote:hover::after, abbr dd:hover::after, b dd:hover::after, bdo dd:hover::after, button dd:hover::after, cite dd:hover::after, code dd:hover::after, dfn dd:hover::after, em dd:hover::after, i dd:hover::after, input dd:hover::after, kbd dd:hover::after, label dd:hover::after, map dd:hover::after, object dd:hover::after, q dd:hover::after, samp dd:hover::after, select dd:hover::after, small dd:hover::after, span dd:hover::after, strong dd:hover::after, sub dd:hover::after, sup dd:hover::after, textarea dd:hover::after, var dd:hover::after, abbr div:hover::after, b div:hover::after, bdo div:hover::after, button div:hover::after, cite div:hover::after, code div:hover::after, dfn div:hover::after, em div:hover::after, i div:hover::after, input div:hover::after, kbd div:hover::after, label div:hover::after, map div:hover::after, object div:hover::after, q div:hover::after, samp div:hover::after, select div:hover::after, small div:hover::after, span div:hover::after, strong div:hover::after, sub div:hover::after, sup div:hover::after, textarea div:hover::after, var div:hover::after, abbr dl:hover::after, b dl:hover::after, bdo dl:hover::after, button dl:hover::after, cite dl:hover::after, code dl:hover::after, dfn dl:hover::after, em dl:hover::after, i dl:hover::after, input dl:hover::after, kbd dl:hover::after, label dl:hover::after, map dl:hover::after, object dl:hover::after, q dl:hover::after, samp dl:hover::after, select dl:hover::after, small dl:hover::after, span dl:hover::after, strong dl:hover::after, sub dl:hover::after, sup dl:hover::after, textarea dl:hover::after, var dl:hover::after, abbr fieldset:hover::after, b fieldset:hover::after, bdo fieldset:hover::after, button fieldset:hover::after, cite fieldset:hover::after, code fieldset:hover::after, dfn fieldset:hover::after, em fieldset:hover::after, i fieldset:hover::after, input fieldset:hover::after, kbd fieldset:hover::after, label fieldset:hover::after, map fieldset:hover::after, object fieldset:hover::after, q fieldset:hover::after, samp fieldset:hover::after, select fieldset:hover::after, small fieldset:hover::after, span fieldset:hover::after, strong fieldset:hover::after, sub fieldset:hover::after, sup fieldset:hover::after, textarea fieldset:hover::after, var fieldset:hover::after, abbr form:hover::after, b form:hover::after, bdo form:hover::after, button form:hover::after, cite form:hover::after, code form:hover::after, dfn form:hover::after, em form:hover::after, i form:hover::after, input form:hover::after, kbd form:hover::after, label form:hover::after, map form:hover::after, object form:hover::after, q form:hover::after, samp form:hover::after, select form:hover::after, small form:hover::after, span form:hover::after, strong form:hover::after, sub form:hover::after, sup form:hover::after, textarea form:hover::after, var form:hover::after, abbr h1:hover::after, b h1:hover::after, bdo h1:hover::after, button h1:hover::after, cite h1:hover::after, code h1:hover::after, dfn h1:hover::after, em h1:hover::after, i h1:hover::after, input h1:hover::after, kbd h1:hover::after, label h1:hover::after, map h1:hover::after, object h1:hover::after, q h1:hover::after, samp h1:hover::after, select h1:hover::after, small h1:hover::after, span h1:hover::after, strong h1:hover::after, sub h1:hover::after, sup h1:hover::after, textarea h1:hover::after, var h1:hover::after, abbr h2:hover::after, b h2:hover::after, bdo h2:hover::after, button h2:hover::after, cite h2:hover::after, code h2:hover::after, dfn h2:hover::after, em h2:hover::after, i h2:hover::after, input h2:hover::after, kbd h2:hover::after, label h2:hover::after, map h2:hover::after, object h2:hover::after, q h2:hover::after, samp h2:hover::after, select h2:hover::after, small h2:hover::after, span h2:hover::after, strong h2:hover::after, sub h2:hover::after, sup h2:hover::after, textarea h2:hover::after, var h2:hover::after, abbr h3:hover::after, b h3:hover::after, bdo h3:hover::after, button h3:hover::after, cite h3:hover::after, code h3:hover::after, dfn h3:hover::after, em h3:hover::after, i h3:hover::after, input h3:hover::after, kbd h3:hover::after, label h3:hover::after, map h3:hover::after, object h3:hover::after, q h3:hover::after, samp h3:hover::after, select h3:hover::after, small h3:hover::after, span h3:hover::after, strong h3:hover::after, sub h3:hover::after, sup h3:hover::after, textarea h3:hover::after, var h3:hover::after, abbr h4:hover::after, b h4:hover::after, bdo h4:hover::after, button h4:hover::after, cite h4:hover::after, code h4:hover::after, dfn h4:hover::after, em h4:hover::after, i h4:hover::after, input h4:hover::after, kbd h4:hover::after, label h4:hover::after, map h4:hover::after, object h4:hover::after, q h4:hover::after, samp h4:hover::after, select h4:hover::after, small h4:hover::after, span h4:hover::after, strong h4:hover::after, sub h4:hover::after, sup h4:hover::after, textarea h4:hover::after, var h4:hover::after, abbr h5:hover::after, b h5:hover::after, bdo h5:hover::after, button h5:hover::after, cite h5:hover::after, code h5:hover::after, dfn h5:hover::after, em h5:hover::after, i h5:hover::after, input h5:hover::after, kbd h5:hover::after, label h5:hover::after, map h5:hover::after, object h5:hover::after, q h5:hover::after, samp h5:hover::after, select h5:hover::after, small h5:hover::after, span h5:hover::after, strong h5:hover::after, sub h5:hover::after, sup h5:hover::after, textarea h5:hover::after, var h5:hover::after, abbr h6:hover::after, b h6:hover::after, bdo h6:hover::after, button h6:hover::after, cite h6:hover::after, code h6:hover::after, dfn h6:hover::after, em h6:hover::after, i h6:hover::after, input h6:hover::after, kbd h6:hover::after, label h6:hover::after, map h6:hover::after, object h6:hover::after, q h6:hover::after, samp h6:hover::after, select h6:hover::after, small h6:hover::after, span h6:hover::after, strong h6:hover::after, sub h6:hover::after, sup h6:hover::after, textarea h6:hover::after, var h6:hover::after, abbr hr:hover::after, b hr:hover::after, bdo hr:hover::after, button hr:hover::after, cite hr:hover::after, code hr:hover::after, dfn hr:hover::after, em hr:hover::after, i hr:hover::after, input hr:hover::after, kbd hr:hover::after, label hr:hover::after, map hr:hover::after, object hr:hover::after, q hr:hover::after, samp hr:hover::after, select hr:hover::after, small hr:hover::after, span hr:hover::after, strong hr:hover::after, sub hr:hover::after, sup hr:hover::after, textarea hr:hover::after, var hr:hover::after, abbr noscript:hover::after, b noscript:hover::after, bdo noscript:hover::after, button noscript:hover::after, cite noscript:hover::after, code noscript:hover::after, dfn noscript:hover::after, em noscript:hover::after, i noscript:hover::after, input noscript:hover::after, kbd noscript:hover::after, label noscript:hover::after, map noscript:hover::after, object noscript:hover::after, q noscript:hover::after, samp noscript:hover::after, select noscript:hover::after, small noscript:hover::after, span noscript:hover::after, strong noscript:hover::after, sub noscript:hover::after, sup noscript:hover::after, textarea noscript:hover::after, var noscript:hover::after, abbr ol:hover::after, b ol:hover::after, bdo ol:hover::after, button ol:hover::after, cite ol:hover::after, code ol:hover::after, dfn ol:hover::after, em ol:hover::after, i ol:hover::after, input ol:hover::after, kbd ol:hover::after, label ol:hover::after, map ol:hover::after, object ol:hover::after, q ol:hover::after, samp ol:hover::after, select ol:hover::after, small ol:hover::after, span ol:hover::after, strong ol:hover::after, sub ol:hover::after, sup ol:hover::after, textarea ol:hover::after, var ol:hover::after, abbr p:hover::after, b p:hover::after, bdo p:hover::after, button p:hover::after, cite p:hover::after, code p:hover::after, dfn p:hover::after, em p:hover::after, i p:hover::after, input p:hover::after, kbd p:hover::after, label p:hover::after, map p:hover::after, object p:hover::after, q p:hover::after, samp p:hover::after, select p:hover::after, small p:hover::after, span p:hover::after, strong p:hover::after, sub p:hover::after, sup p:hover::after, textarea p:hover::after, var p:hover::after, abbr pre:hover::after, b pre:hover::after, bdo pre:hover::after, button pre:hover::after, cite pre:hover::after, code pre:hover::after, dfn pre:hover::after, em pre:hover::after, i pre:hover::after, input pre:hover::after, kbd pre:hover::after, label pre:hover::after, map pre:hover::after, object pre:hover::after, q pre:hover::after, samp pre:hover::after, select pre:hover::after, small pre:hover::after, span pre:hover::after, strong pre:hover::after, sub pre:hover::after, sup pre:hover::after, textarea pre:hover::after, var pre:hover::after, abbr table:hover::after, b table:hover::after, bdo table:hover::after, button table:hover::after, cite table:hover::after, code table:hover::after, dfn table:hover::after, em table:hover::after, i table:hover::after, input table:hover::after, kbd table:hover::after, label table:hover::after, map table:hover::after, object table:hover::after, q table:hover::after, samp table:hover::after, select table:hover::after, small table:hover::after, span table:hover::after, strong table:hover::after, sub table:hover::after, sup table:hover::after, textarea table:hover::after, var table:hover::after, abbr ul:hover::after, b ul:hover::after, bdo ul:hover::after, button ul:hover::after, cite ul:hover::after, code ul:hover::after, dfn ul:hover::after, em ul:hover::after, i ul:hover::after, input ul:hover::after, kbd ul:hover::after, label ul:hover::after, map ul:hover::after, object ul:hover::after, q ul:hover::after, samp ul:hover::after, select ul:hover::after, small ul:hover::after, span ul:hover::after, strong ul:hover::after, sub ul:hover::after, sup ul:hover::after, textarea ul:hover::after, var ul:hover::after, abbr article:hover::after, b article:hover::after, bdo article:hover::after, button article:hover::after, cite article:hover::after, code article:hover::after, dfn article:hover::after, em article:hover::after, i article:hover::after, input article:hover::after, kbd article:hover::after, label article:hover::after, map article:hover::after, object article:hover::after, q article:hover::after, samp article:hover::after, select article:hover::after, small article:hover::after, span article:hover::after, strong article:hover::after, sub article:hover::after, sup article:hover::after, textarea article:hover::after, var article:hover::after, abbr aside:hover::after, b aside:hover::after, bdo aside:hover::after, button aside:hover::after, cite aside:hover::after, code aside:hover::after, dfn aside:hover::after, em aside:hover::after, i aside:hover::after, input aside:hover::after, kbd aside:hover::after, label aside:hover::after, map aside:hover::after, object aside:hover::after, q aside:hover::after, samp aside:hover::after, select aside:hover::after, small aside:hover::after, span aside:hover::after, strong aside:hover::after, sub aside:hover::after, sup aside:hover::after, textarea aside:hover::after, var aside:hover::after, abbr audio:hover::after, b audio:hover::after, bdo audio:hover::after, button audio:hover::after, cite audio:hover::after, code audio:hover::after, dfn audio:hover::after, em audio:hover::after, i audio:hover::after, input audio:hover::after, kbd audio:hover::after, label audio:hover::after, map audio:hover::after, object audio:hover::after, q audio:hover::after, samp audio:hover::after, select audio:hover::after, small audio:hover::after, span audio:hover::after, strong audio:hover::after, sub audio:hover::after, sup audio:hover::after, textarea audio:hover::after, var audio:hover::after, abbr canvas:hover::after, b canvas:hover::after, bdo canvas:hover::after, button canvas:hover::after, cite canvas:hover::after, code canvas:hover::after, dfn canvas:hover::after, em canvas:hover::after, i canvas:hover::after, input canvas:hover::after, kbd canvas:hover::after, label canvas:hover::after, map canvas:hover::after, object canvas:hover::after, q canvas:hover::after, samp canvas:hover::after, select canvas:hover::after, small canvas:hover::after, span canvas:hover::after, strong canvas:hover::after, sub canvas:hover::after, sup canvas:hover::after, textarea canvas:hover::after, var canvas:hover::after, abbr figcaption:hover::after, b figcaption:hover::after, bdo figcaption:hover::after, button figcaption:hover::after, cite figcaption:hover::after, code figcaption:hover::after, dfn figcaption:hover::after, em figcaption:hover::after, i figcaption:hover::after, input figcaption:hover::after, kbd figcaption:hover::after, label figcaption:hover::after, map figcaption:hover::after, object figcaption:hover::after, q figcaption:hover::after, samp figcaption:hover::after, select figcaption:hover::after, small figcaption:hover::after, span figcaption:hover::after, strong figcaption:hover::after, sub figcaption:hover::after, sup figcaption:hover::after, textarea figcaption:hover::after, var figcaption:hover::after, abbr figure:hover::after, b figure:hover::after, bdo figure:hover::after, button figure:hover::after, cite figure:hover::after, code figure:hover::after, dfn figure:hover::after, em figure:hover::after, i figure:hover::after, input figure:hover::after, kbd figure:hover::after, label figure:hover::after, map figure:hover::after, object figure:hover::after, q figure:hover::after, samp figure:hover::after, select figure:hover::after, small figure:hover::after, span figure:hover::after, strong figure:hover::after, sub figure:hover::after, sup figure:hover::after, textarea figure:hover::after, var figure:hover::after, abbr footer:hover::after, b footer:hover::after, bdo footer:hover::after, button footer:hover::after, cite footer:hover::after, code footer:hover::after, dfn footer:hover::after, em footer:hover::after, i footer:hover::after, input footer:hover::after, kbd footer:hover::after, label footer:hover::after, map footer:hover::after, object footer:hover::after, q footer:hover::after, samp footer:hover::after, select footer:hover::after, small footer:hover::after, span footer:hover::after, strong footer:hover::after, sub footer:hover::after, sup footer:hover::after, textarea footer:hover::after, var footer:hover::after, abbr header:hover::after, b header:hover::after, bdo header:hover::after, button header:hover::after, cite header:hover::after, code header:hover::after, dfn header:hover::after, em header:hover::after, i header:hover::after, input header:hover::after, kbd header:hover::after, label header:hover::after, map header:hover::after, object header:hover::after, q header:hover::after, samp header:hover::after, select header:hover::after, small header:hover::after, span header:hover::after, strong header:hover::after, sub header:hover::after, sup header:hover::after, textarea header:hover::after, var header:hover::after, abbr hgroup:hover::after, b hgroup:hover::after, bdo hgroup:hover::after, button hgroup:hover::after, cite hgroup:hover::after, code hgroup:hover::after, dfn hgroup:hover::after, em hgroup:hover::after, i hgroup:hover::after, input hgroup:hover::after, kbd hgroup:hover::after, label hgroup:hover::after, map hgroup:hover::after, object hgroup:hover::after, q hgroup:hover::after, samp hgroup:hover::after, select hgroup:hover::after, small hgroup:hover::after, span hgroup:hover::after, strong hgroup:hover::after, sub hgroup:hover::after, sup hgroup:hover::after, textarea hgroup:hover::after, var hgroup:hover::after, abbr output:hover::after, b output:hover::after, bdo output:hover::after, button output:hover::after, cite output:hover::after, code output:hover::after, dfn output:hover::after, em output:hover::after, i output:hover::after, input output:hover::after, kbd output:hover::after, label output:hover::after, map output:hover::after, object output:hover::after, q output:hover::after, samp output:hover::after, select output:hover::after, small output:hover::after, span output:hover::after, strong output:hover::after, sub output:hover::after, sup output:hover::after, textarea output:hover::after, var output:hover::after, abbr section:hover::after, b section:hover::after, bdo section:hover::after, button section:hover::after, cite section:hover::after, code section:hover::after, dfn section:hover::after, em section:hover::after, i section:hover::after, input section:hover::after, kbd section:hover::after, label section:hover::after, map section:hover::after, object section:hover::after, q section:hover::after, samp section:hover::after, select section:hover::after, small section:hover::after, span section:hover::after, strong section:hover::after, sub section:hover::after, sup section:hover::after, textarea section:hover::after, var section:hover::after, abbr video:hover::after, b video:hover::after, bdo video:hover::after, button video:hover::after, cite video:hover::after, code video:hover::after, dfn video:hover::after, em video:hover::after, i video:hover::after, input video:hover::after, kbd video:hover::after, label video:hover::after, map video:hover::after, object video:hover::after, q video:hover::after, samp video:hover::after, select video:hover::after, small video:hover::after, span video:hover::after, strong video:hover::after, sub video:hover::after, sup video:hover::after, textarea video:hover::after, var video:hover::after, img:not([src]):hover::after, figcaption:hover::after, ol > :not(li):hover::after,
+  ul > :not(li):hover::after, dl > :not(dd):not(dt):hover::after, dt + :not(dd):hover::after {
+    display: block; }
+
+/*
+ * Shouldn't use any of these deprecated elements or
+ * attributes.
+ *
+ */
+/*
+ * Some generic rules for using new HTML 5 elements.
+ *
+ */
+/*
+ * Rules for forms.
+ *
+ */
+/*
+ * Some generic rules for buttons and links.
+ * Links should have an href, should have proper
+ * fallbacks and accessibility.
+ *
+ */
+/*
+ * Image attributes should be there and properly filled in.
+ *
+ */
+/*
+ * List items & definition lists should only have the
+ * appropriate descendant elements.
+ *
+ */
+/*
+ * Miscellaneous rules.
+ *
+ */
+acronym::after {
+  content: 'This element is deprecated, non-standard or obsolete.' !important; }
+
+applet::after {
+  content: 'This element is deprecated, non-standard or obsolete.' !important; }
+
+basefont::after {
+  content: 'This element is deprecated, non-standard or obsolete.' !important; }
+
+big::after {
+  content: 'This element is deprecated, non-standard or obsolete.' !important; }
+
+center::after {
+  content: 'This element is deprecated, non-standard or obsolete.' !important; }
+
+dir::after {
+  content: 'This element is deprecated, non-standard or obsolete.' !important; }
+
+font::after {
+  content: 'This element is deprecated, non-standard or obsolete.' !important; }
+
+frame::after {
+  content: 'This element is deprecated, non-standard or obsolete.' !important; }
+
+frameset::after {
+  content: 'This element is deprecated, non-standard or obsolete.' !important; }
+
+isindex::after {
+  content: 'This element is deprecated, non-standard or obsolete.' !important; }
+
+listing::after {
+  content: 'This element is deprecated, non-standard or obsolete.' !important; }
+
+multicol::after {
+  content: 'This element is deprecated, non-standard or obsolete.' !important; }
+
+plaintext::after {
+  content: 'This element is deprecated, non-standard or obsolete.' !important; }
+
+strike::after {
+  content: 'This element is deprecated, non-standard or obsolete.' !important; }
+
+xmp::after {
+  content: 'This element is deprecated, non-standard or obsolete.' !important; }
+
+bgsound::after {
+  content: 'This element is deprecated, non-standard or obsolete.' !important; }
+
+blink::after {
+  content: 'This element is deprecated, non-standard or obsolete.' !important; }
+
+comment::after {
+  content: 'This element is deprecated, non-standard or obsolete.' !important; }
+
+marquee::after {
+  content: 'This element is deprecated, non-standard or obsolete.' !important; }
+
+nobr::after {
+  content: 'This element is deprecated, non-standard or obsolete.' !important; }
+
+noembed::after {
+  content: 'This element is deprecated, non-standard or obsolete.' !important; }
+
+wbr::after {
+  content: 'This element is deprecated, non-standard or obsolete.' !important; }
+
+[align]::after {
+  content: 'You are using a deprecated attribute. Use CSS instead.' !important; }
+
+[alink]::after {
+  content: 'You are using a deprecated attribute. Use CSS instead.' !important; }
+
+[background]::after {
+  content: 'You are using a deprecated attribute. Use CSS instead.' !important; }
+
+[bgcolor]::after {
+  content: 'You are using a deprecated attribute. Use CSS instead.' !important; }
+
+[border]::after {
+  content: 'You are using a deprecated attribute. Use CSS instead.' !important; }
+
+[clear]::after {
+  content: 'You are using a deprecated attribute. Use CSS instead.' !important; }
+
+[height]::after {
+  content: 'You are using a deprecated attribute. Use CSS instead.' !important; }
+
+[hspace]::after {
+  content: 'You are using a deprecated attribute. Use CSS instead.' !important; }
+
+[link]::after {
+  content: 'You are using a deprecated attribute. Use CSS instead.' !important; }
+
+[nowrap]::after {
+  content: 'You are using a deprecated attribute. Use CSS instead.' !important; }
+
+[start]::after {
+  content: 'You are using a deprecated attribute. Use CSS instead.' !important; }
+
+[vlink]::after {
+  content: 'You are using a deprecated attribute. Use CSS instead.' !important; }
+
+[vspace]::after {
+  content: 'You are using a deprecated attribute. Use CSS instead.' !important; }
+
+script[language]::after {
+  content: 'The language attribute is deprecated.' !important; }
+
+script[type]::after {
+  content: 'Script tags no longer require the type attribute.' !important; }
+
+table[summary]::after {
+  content: 'The summary attribute is deprecated. Perhaps use the <caption> element.' !important; }
+
+abbr address::after {
+  content: 'Do not put block-level elements inside inline elements'; }
+
+b address::after {
+  content: 'Do not put block-level elements inside inline elements'; }
+
+bdo address::after {
+  content: 'Do not put block-level elements inside inline elements'; }
+
+button address::after {
+  content: 'Do not put block-level elements inside inline elements'; }
+
+cite address::after {
+  content: 'Do not put block-level elements inside inline elements'; }
+
+code address::after {
+  content: 'Do not put block-level elements inside inline elements'; }
+
+dfn address::after {
+  content: 'Do not put block-level elements inside inline elements'; }
+
+em address::after {
+  content: 'Do not put block-level elements inside inline elements'; }
+
+i address::after {
+  content: 'Do not put block-level elements inside inline elements'; }
+
+input address::after {
+  content: 'Do not put block-level elements inside inline elements'; }
+
+kbd address::after {
+  content: 'Do not put block-level elements inside inline elements'; }
+
+label address::after {
+  content: 'Do not put block-level elements inside inline elements'; }
+
+map address::after {
+  content: 'Do not put block-level elements inside inline elements'; }
+
+object address::after {
+  content: 'Do not put block-level elements inside inline elements'; }
+
+q address::after {
+  content: 'Do not put block-level elements inside inline elements'; }
+
+samp address::after {
+  content: 'Do not put block-level elements inside inline elements'; }
+
+select address::after {
+  content: 'Do not put block-level elements inside inline elements'; }
+
+small address::after {
+  content: 'Do not put block-level elements inside inline elements'; }
+
+span address::after {
+  content: 'Do not put block-level elements inside inline elements'; }
+
+strong address::after {
+  content: 'Do not put block-level elements inside inline elements'; }
+
+sub address::after {
+  content: 'Do not put block-level elements inside inline elements'; }
+
+sup address::after {
+  content: 'Do not put block-level elements inside inline elements'; }
+
+textarea address::after {
+  content: 'Do not put block-level elements inside inline elements'; }
+
+var address::after {
+  content: 'Do not put block-level elements inside inline elements'; }
+
+abbr blockquote::after {
+  content: 'Do not put block-level elements inside inline elements'; }
+
+b blockquote::after {
+  content: 'Do not put block-level elements inside inline elements'; }
+
+bdo blockquote::after {
+  content: 'Do not put block-level elements inside inline elements'; }
+
+button blockquote::after {
+  content: 'Do not put block-level elements inside inline elements'; }
+
+cite blockquote::after {
+  content: 'Do not put block-level elements inside inline elements'; }
+
+code blockquote::after {
+  content: 'Do not put block-level elements inside inline elements'; }
+
+dfn blockquote::after {
+  content: 'Do not put block-level elements inside inline elements'; }
+
+em blockquote::after {
+  content: 'Do not put block-level elements inside inline elements'; }
+
+i blockquote::after {
+  content: 'Do not put block-level elements inside inline elements'; }
+
+input blockquote::after {
+  content: 'Do not put block-level elements inside inline elements'; }
+
+kbd blockquote::after {
+  content: 'Do not put block-level elements inside inline elements'; }
+
+label blockquote::after {
+  content: 'Do not put block-level elements inside inline elements'; }
+
+map blockquote::after {
+  content: 'Do not put block-level elements inside inline elements'; }
+
+object blockquote::after {
+  content: 'Do not put block-level elements inside inline elements'; }
+
+q blockquote::after {
+  content: 'Do not put block-level elements inside inline elements'; }
+
+samp blockquote::after {
+  content: 'Do not put block-level elements inside inline elements'; }
+
+select blockquote::after {
+  content: 'Do not put block-level elements inside inline elements'; }
+
+small blockquote::after {
+  content: 'Do not put block-level elements inside inline elements'; }
+
+span blockquote::after {
+  content: 'Do not put block-level elements inside inline elements'; }
+
+strong blockquote::after {
+  content: 'Do not put block-level elements inside inline elements'; }
+
+sub blockquote::after {
+  content: 'Do not put block-level elements inside inline elements'; }
+
+sup blockquote::after {
+  content: 'Do not put block-level elements inside inline elements'; }
+
+textarea blockquote::after {
+  content: 'Do not put block-level elements inside inline elements'; }
+
+var blockquote::after {
+  content: 'Do not put block-level elements inside inline elements'; }
+
+abbr dd::after {
+  content: 'Do not put block-level elements inside inline elements'; }
+
+b dd::after {
+  content: 'Do not put block-level elements inside inline elements'; }
+
+bdo dd::after {
+  content: 'Do not put block-level elements inside inline elements'; }
+
+button dd::after {
+  content: 'Do not put block-level elements inside inline elements'; }
+
+cite dd::after {
+  content: 'Do not put block-level elements inside inline elements'; }
+
+code dd::after {
+  content: 'Do not put block-level elements inside inline elements'; }
+
+dfn dd::after {
+  content: 'Do not put block-level elements inside inline elements'; }
+
+em dd::after {
+  content: 'Do not put block-level elements inside inline elements'; }
+
+i dd::after {
+  content: 'Do not put block-level elements inside inline elements'; }
+
+input dd::after {
+  content: 'Do not put block-level elements inside inline elements'; }
+
+kbd dd::after {
+  content: 'Do not put block-level elements inside inline elements'; }
+
+label dd::after {
+  content: 'Do not put block-level elements inside inline elements'; }
+
+map dd::after {
+  content: 'Do not put block-level elements inside inline elements'; }
+
+object dd::after {
+  content: 'Do not put block-level elements inside inline elements'; }
+
+q dd::after {
+  content: 'Do not put block-level elements inside inline elements'; }
+
+samp dd::after {
+  content: 'Do not put block-level elements inside inline elements'; }
+
+select dd::after {
+  content: 'Do not put block-level elements inside inline elements'; }
+
+small dd::after {
+  content: 'Do not put block-level elements inside inline elements'; }
+
+span dd::after {
+  content: 'Do not put block-level elements inside inline elements'; }
+
+strong dd::after {
+  content: 'Do not put block-level elements inside inline elements'; }
+
+sub dd::after {
+  content: 'Do not put block-level elements inside inline elements'; }
+
+sup dd::after {
+  content: 'Do not put block-level elements inside inline elements'; }
+
+textarea dd::after {
+  content: 'Do not put block-level elements inside inline elements'; }
+
+var dd::after {
+  content: 'Do not put block-level elements inside inline elements'; }
+
+abbr div::after {
+  content: 'Do not put block-level elements inside inline elements'; }
+
+b div::after {
+  content: 'Do not put block-level elements inside inline elements'; }
+
+bdo div::after {
+  content: 'Do not put block-level elements inside inline elements'; }
+
+button div::after {
+  content: 'Do not put block-level elements inside inline elements'; }
+
+cite div::after {
+  content: 'Do not put block-level elements inside inline elements'; }
+
+code div::after {
+  content: 'Do not put block-level elements inside inline elements'; }
+
+dfn div::after {
+  content: 'Do not put block-level elements inside inline elements'; }
+
+em div::after {
+  content: 'Do not put block-level elements inside inline elements'; }
+
+i div::after {
+  content: 'Do not put block-level elements inside inline elements'; }
+
+input div::after {
+  content: 'Do not put block-level elements inside inline elements'; }
+
+kbd div::after {
+  content: 'Do not put block-level elements inside inline elements'; }
+
+label div::after {
+  content: 'Do not put block-level elements inside inline elements'; }
+
+map div::after {
+  content: 'Do not put block-level elements inside inline elements'; }
+
+object div::after {
+  content: 'Do not put block-level elements inside inline elements'; }
+
+q div::after {
+  content: 'Do not put block-level elements inside inline elements'; }
+
+samp div::after {
+  content: 'Do not put block-level elements inside inline elements'; }
+
+select div::after {
+  content: 'Do not put block-level elements inside inline elements'; }
+
+small div::after {
+  content: 'Do not put block-level elements inside inline elements'; }
+
+span div::after {
+  content: 'Do not put block-level elements inside inline elements'; }
+
+strong div::after {
+  content: 'Do not put block-level elements inside inline elements'; }
+
+sub div::after {
+  content: 'Do not put block-level elements inside inline elements'; }
+
+sup div::after {
+  content: 'Do not put block-level elements inside inline elements'; }
+
+textarea div::after {
+  content: 'Do not put block-level elements inside inline elements'; }
+
+var div::after {
+  content: 'Do not put block-level elements inside inline elements'; }
+
+abbr dl::after {
+  content: 'Do not put block-level elements inside inline elements'; }
+
+b dl::after {
+  content: 'Do not put block-level elements inside inline elements'; }
+
+bdo dl::after {
+  content: 'Do not put block-level elements inside inline elements'; }
+
+button dl::after {
+  content: 'Do not put block-level elements inside inline elements'; }
+
+cite dl::after {
+  content: 'Do not put block-level elements inside inline elements'; }
+
+code dl::after {
+  content: 'Do not put block-level elements inside inline elements'; }
+
+dfn dl::after {
+  content: 'Do not put block-level elements inside inline elements'; }
+
+em dl::after {
+  content: 'Do not put block-level elements inside inline elements'; }
+
+i dl::after {
+  content: 'Do not put block-level elements inside inline elements'; }
+
+input dl::after {
+  content: 'Do not put block-level elements inside inline elements'; }
+
+kbd dl::after {
+  content: 'Do not put block-level elements inside inline elements'; }
+
+label dl::after {
+  content: 'Do not put block-level elements inside inline elements'; }
+
+map dl::after {
+  content: 'Do not put block-level elements inside inline elements'; }
+
+object dl::after {
+  content: 'Do not put block-level elements inside inline elements'; }
+
+q dl::after {
+  content: 'Do not put block-level elements inside inline elements'; }
+
+samp dl::after {
+  content: 'Do not put block-level elements inside inline elements'; }
+
+select dl::after {
+  content: 'Do not put block-level elements inside inline elements'; }
+
+small dl::after {
+  content: 'Do not put block-level elements inside inline elements'; }
+
+span dl::after {
+  content: 'Do not put block-level elements inside inline elements'; }
+
+strong dl::after {
+  content: 'Do not put block-level elements inside inline elements'; }
+
+sub dl::after {
+  content: 'Do not put block-level elements inside inline elements'; }
+
+sup dl::after {
+  content: 'Do not put block-level elements inside inline elements'; }
+
+textarea dl::after {
+  content: 'Do not put block-level elements inside inline elements'; }
+
+var dl::after {
+  content: 'Do not put block-level elements inside inline elements'; }
+
+abbr fieldset::after {
+  content: 'Do not put block-level elements inside inline elements'; }
+
+b fieldset::after {
+  content: 'Do not put block-level elements inside inline elements'; }
+
+bdo fieldset::after {
+  content: 'Do not put block-level elements inside inline elements'; }
+
+button fieldset::after {
+  content: 'Do not put block-level elements inside inline elements'; }
+
+cite fieldset::after {
+  content: 'Do not put block-level elements inside inline elements'; }
+
+code fieldset::after {
+  content: 'Do not put block-level elements inside inline elements'; }
+
+dfn fieldset::after {
+  content: 'Do not put block-level elements inside inline elements'; }
+
+em fieldset::after {
+  content: 'Do not put block-level elements inside inline elements'; }
+
+i fieldset::after {
+  content: 'Do not put block-level elements inside inline elements'; }
+
+input fieldset::after {
+  content: 'Do not put block-level elements inside inline elements'; }
+
+kbd fieldset::after {
+  content: 'Do not put block-level elements inside inline elements'; }
+
+label fieldset::after {
+  content: 'Do not put block-level elements inside inline elements'; }
+
+map fieldset::after {
+  content: 'Do not put block-level elements inside inline elements'; }
+
+object fieldset::after {
+  content: 'Do not put block-level elements inside inline elements'; }
+
+q fieldset::after {
+  content: 'Do not put block-level elements inside inline elements'; }
+
+samp fieldset::after {
+  content: 'Do not put block-level elements inside inline elements'; }
+
+select fieldset::after {
+  content: 'Do not put block-level elements inside inline elements'; }
+
+small fieldset::after {
+  content: 'Do not put block-level elements inside inline elements'; }
+
+span fieldset::after {
+  content: 'Do not put block-level elements inside inline elements'; }
+
+strong fieldset::after {
+  content: 'Do not put block-level elements inside inline elements'; }
+
+sub fieldset::after {
+  content: 'Do not put block-level elements inside inline elements'; }
+
+sup fieldset::after {
+  content: 'Do not put block-level elements inside inline elements'; }
+
+textarea fieldset::after {
+  content: 'Do not put block-level elements inside inline elements'; }
+
+var fieldset::after {
+  content: 'Do not put block-level elements inside inline elements'; }
+
+abbr form::after {
+  content: 'Do not put block-level elements inside inline elements'; }
+
+b form::after {
+  content: 'Do not put block-level elements inside inline elements'; }
+
+bdo form::after {
+  content: 'Do not put block-level elements inside inline elements'; }
+
+button form::after {
+  content: 'Do not put block-level elements inside inline elements'; }
+
+cite form::after {
+  content: 'Do not put block-level elements inside inline elements'; }
+
+code form::after {
+  content: 'Do not put block-level elements inside inline elements'; }
+
+dfn form::after {
+  content: 'Do not put block-level elements inside inline elements'; }
+
+em form::after {
+  content: 'Do not put block-level elements inside inline elements'; }
+
+i form::after {
+  content: 'Do not put block-level elements inside inline elements'; }
+
+input form::after {
+  content: 'Do not put block-level elements inside inline elements'; }
+
+kbd form::after {
+  content: 'Do not put block-level elements inside inline elements'; }
+
+label form::after {
+  content: 'Do not put block-level elements inside inline elements'; }
+
+map form::after {
+  content: 'Do not put block-level elements inside inline elements'; }
+
+object form::after {
+  content: 'Do not put block-level elements inside inline elements'; }
+
+q form::after {
+  content: 'Do not put block-level elements inside inline elements'; }
+
+samp form::after {
+  content: 'Do not put block-level elements inside inline elements'; }
+
+select form::after {
+  content: 'Do not put block-level elements inside inline elements'; }
+
+small form::after {
+  content: 'Do not put block-level elements inside inline elements'; }
+
+span form::after {
+  content: 'Do not put block-level elements inside inline elements'; }
+
+strong form::after {
+  content: 'Do not put block-level elements inside inline elements'; }
+
+sub form::after {
+  content: 'Do not put block-level elements inside inline elements'; }
+
+sup form::after {
+  content: 'Do not put block-level elements inside inline elements'; }
+
+textarea form::after {
+  content: 'Do not put block-level elements inside inline elements'; }
+
+var form::after {
+  content: 'Do not put block-level elements inside inline elements'; }
+
+abbr h1::after {
+  content: 'Do not put block-level elements inside inline elements'; }
+
+b h1::after {
+  content: 'Do not put block-level elements inside inline elements'; }
+
+bdo h1::after {
+  content: 'Do not put block-level elements inside inline elements'; }
+
+button h1::after {
+  content: 'Do not put block-level elements inside inline elements'; }
+
+cite h1::after {
+  content: 'Do not put block-level elements inside inline elements'; }
+
+code h1::after {
+  content: 'Do not put block-level elements inside inline elements'; }
+
+dfn h1::after {
+  content: 'Do not put block-level elements inside inline elements'; }
+
+em h1::after {
+  content: 'Do not put block-level elements inside inline elements'; }
+
+i h1::after {
+  content: 'Do not put block-level elements inside inline elements'; }
+
+input h1::after {
+  content: 'Do not put block-level elements inside inline elements'; }
+
+kbd h1::after {
+  content: 'Do not put block-level elements inside inline elements'; }
+
+label h1::after {
+  content: 'Do not put block-level elements inside inline elements'; }
+
+map h1::after {
+  content: 'Do not put block-level elements inside inline elements'; }
+
+object h1::after {
+  content: 'Do not put block-level elements inside inline elements'; }
+
+q h1::after {
+  content: 'Do not put block-level elements inside inline elements'; }
+
+samp h1::after {
+  content: 'Do not put block-level elements inside inline elements'; }
+
+select h1::after {
+  content: 'Do not put block-level elements inside inline elements'; }
+
+small h1::after {
+  content: 'Do not put block-level elements inside inline elements'; }
+
+span h1::after {
+  content: 'Do not put block-level elements inside inline elements'; }
+
+strong h1::after {
+  content: 'Do not put block-level elements inside inline elements'; }
+
+sub h1::after {
+  content: 'Do not put block-level elements inside inline elements'; }
+
+sup h1::after {
+  content: 'Do not put block-level elements inside inline elements'; }
+
+textarea h1::after {
+  content: 'Do not put block-level elements inside inline elements'; }
+
+var h1::after {
+  content: 'Do not put block-level elements inside inline elements'; }
+
+abbr h2::after {
+  content: 'Do not put block-level elements inside inline elements'; }
+
+b h2::after {
+  content: 'Do not put block-level elements inside inline elements'; }
+
+bdo h2::after {
+  content: 'Do not put block-level elements inside inline elements'; }
+
+button h2::after {
+  content: 'Do not put block-level elements inside inline elements'; }
+
+cite h2::after {
+  content: 'Do not put block-level elements inside inline elements'; }
+
+code h2::after {
+  content: 'Do not put block-level elements inside inline elements'; }
+
+dfn h2::after {
+  content: 'Do not put block-level elements inside inline elements'; }
+
+em h2::after {
+  content: 'Do not put block-level elements inside inline elements'; }
+
+i h2::after {
+  content: 'Do not put block-level elements inside inline elements'; }
+
+input h2::after {
+  content: 'Do not put block-level elements inside inline elements'; }
+
+kbd h2::after {
+  content: 'Do not put block-level elements inside inline elements'; }
+
+label h2::after {
+  content: 'Do not put block-level elements inside inline elements'; }
+
+map h2::after {
+  content: 'Do not put block-level elements inside inline elements'; }
+
+object h2::after {
+  content: 'Do not put block-level elements inside inline elements'; }
+
+q h2::after {
+  content: 'Do not put block-level elements inside inline elements'; }
+
+samp h2::after {
+  content: 'Do not put block-level elements inside inline elements'; }
+
+select h2::after {
+  content: 'Do not put block-level elements inside inline elements'; }
+
+small h2::after {
+  content: 'Do not put block-level elements inside inline elements'; }
+
+span h2::after {
+  content: 'Do not put block-level elements inside inline elements'; }
+
+strong h2::after {
+  content: 'Do not put block-level elements inside inline elements'; }
+
+sub h2::after {
+  content: 'Do not put block-level elements inside inline elements'; }
+
+sup h2::after {
+  content: 'Do not put block-level elements inside inline elements'; }
+
+textarea h2::after {
+  content: 'Do not put block-level elements inside inline elements'; }
+
+var h2::after {
+  content: 'Do not put block-level elements inside inline elements'; }
+
+abbr h3::after {
+  content: 'Do not put block-level elements inside inline elements'; }
+
+b h3::after {
+  content: 'Do not put block-level elements inside inline elements'; }
+
+bdo h3::after {
+  content: 'Do not put block-level elements inside inline elements'; }
+
+button h3::after {
+  content: 'Do not put block-level elements inside inline elements'; }
+
+cite h3::after {
+  content: 'Do not put block-level elements inside inline elements'; }
+
+code h3::after {
+  content: 'Do not put block-level elements inside inline elements'; }
+
+dfn h3::after {
+  content: 'Do not put block-level elements inside inline elements'; }
+
+em h3::after {
+  content: 'Do not put block-level elements inside inline elements'; }
+
+i h3::after {
+  content: 'Do not put block-level elements inside inline elements'; }
+
+input h3::after {
+  content: 'Do not put block-level elements inside inline elements'; }
+
+kbd h3::after {
+  content: 'Do not put block-level elements inside inline elements'; }
+
+label h3::after {
+  content: 'Do not put block-level elements inside inline elements'; }
+
+map h3::after {
+  content: 'Do not put block-level elements inside inline elements'; }
+
+object h3::after {
+  content: 'Do not put block-level elements inside inline elements'; }
+
+q h3::after {
+  content: 'Do not put block-level elements inside inline elements'; }
+
+samp h3::after {
+  content: 'Do not put block-level elements inside inline elements'; }
+
+select h3::after {
+  content: 'Do not put block-level elements inside inline elements'; }
+
+small h3::after {
+  content: 'Do not put block-level elements inside inline elements'; }
+
+span h3::after {
+  content: 'Do not put block-level elements inside inline elements'; }
+
+strong h3::after {
+  content: 'Do not put block-level elements inside inline elements'; }
+
+sub h3::after {
+  content: 'Do not put block-level elements inside inline elements'; }
+
+sup h3::after {
+  content: 'Do not put block-level elements inside inline elements'; }
+
+textarea h3::after {
+  content: 'Do not put block-level elements inside inline elements'; }
+
+var h3::after {
+  content: 'Do not put block-level elements inside inline elements'; }
+
+abbr h4::after {
+  content: 'Do not put block-level elements inside inline elements'; }
+
+b h4::after {
+  content: 'Do not put block-level elements inside inline elements'; }
+
+bdo h4::after {
+  content: 'Do not put block-level elements inside inline elements'; }
+
+button h4::after {
+  content: 'Do not put block-level elements inside inline elements'; }
+
+cite h4::after {
+  content: 'Do not put block-level elements inside inline elements'; }
+
+code h4::after {
+  content: 'Do not put block-level elements inside inline elements'; }
+
+dfn h4::after {
+  content: 'Do not put block-level elements inside inline elements'; }
+
+em h4::after {
+  content: 'Do not put block-level elements inside inline elements'; }
+
+i h4::after {
+  content: 'Do not put block-level elements inside inline elements'; }
+
+input h4::after {
+  content: 'Do not put block-level elements inside inline elements'; }
+
+kbd h4::after {
+  content: 'Do not put block-level elements inside inline elements'; }
+
+label h4::after {
+  content: 'Do not put block-level elements inside inline elements'; }
+
+map h4::after {
+  content: 'Do not put block-level elements inside inline elements'; }
+
+object h4::after {
+  content: 'Do not put block-level elements inside inline elements'; }
+
+q h4::after {
+  content: 'Do not put block-level elements inside inline elements'; }
+
+samp h4::after {
+  content: 'Do not put block-level elements inside inline elements'; }
+
+select h4::after {
+  content: 'Do not put block-level elements inside inline elements'; }
+
+small h4::after {
+  content: 'Do not put block-level elements inside inline elements'; }
+
+span h4::after {
+  content: 'Do not put block-level elements inside inline elements'; }
+
+strong h4::after {
+  content: 'Do not put block-level elements inside inline elements'; }
+
+sub h4::after {
+  content: 'Do not put block-level elements inside inline elements'; }
+
+sup h4::after {
+  content: 'Do not put block-level elements inside inline elements'; }
+
+textarea h4::after {
+  content: 'Do not put block-level elements inside inline elements'; }
+
+var h4::after {
+  content: 'Do not put block-level elements inside inline elements'; }
+
+abbr h5::after {
+  content: 'Do not put block-level elements inside inline elements'; }
+
+b h5::after {
+  content: 'Do not put block-level elements inside inline elements'; }
+
+bdo h5::after {
+  content: 'Do not put block-level elements inside inline elements'; }
+
+button h5::after {
+  content: 'Do not put block-level elements inside inline elements'; }
+
+cite h5::after {
+  content: 'Do not put block-level elements inside inline elements'; }
+
+code h5::after {
+  content: 'Do not put block-level elements inside inline elements'; }
+
+dfn h5::after {
+  content: 'Do not put block-level elements inside inline elements'; }
+
+em h5::after {
+  content: 'Do not put block-level elements inside inline elements'; }
+
+i h5::after {
+  content: 'Do not put block-level elements inside inline elements'; }
+
+input h5::after {
+  content: 'Do not put block-level elements inside inline elements'; }
+
+kbd h5::after {
+  content: 'Do not put block-level elements inside inline elements'; }
+
+label h5::after {
+  content: 'Do not put block-level elements inside inline elements'; }
+
+map h5::after {
+  content: 'Do not put block-level elements inside inline elements'; }
+
+object h5::after {
+  content: 'Do not put block-level elements inside inline elements'; }
+
+q h5::after {
+  content: 'Do not put block-level elements inside inline elements'; }
+
+samp h5::after {
+  content: 'Do not put block-level elements inside inline elements'; }
+
+select h5::after {
+  content: 'Do not put block-level elements inside inline elements'; }
+
+small h5::after {
+  content: 'Do not put block-level elements inside inline elements'; }
+
+span h5::after {
+  content: 'Do not put block-level elements inside inline elements'; }
+
+strong h5::after {
+  content: 'Do not put block-level elements inside inline elements'; }
+
+sub h5::after {
+  content: 'Do not put block-level elements inside inline elements'; }
+
+sup h5::after {
+  content: 'Do not put block-level elements inside inline elements'; }
+
+textarea h5::after {
+  content: 'Do not put block-level elements inside inline elements'; }
+
+var h5::after {
+  content: 'Do not put block-level elements inside inline elements'; }
+
+abbr h6::after {
+  content: 'Do not put block-level elements inside inline elements'; }
+
+b h6::after {
+  content: 'Do not put block-level elements inside inline elements'; }
+
+bdo h6::after {
+  content: 'Do not put block-level elements inside inline elements'; }
+
+button h6::after {
+  content: 'Do not put block-level elements inside inline elements'; }
+
+cite h6::after {
+  content: 'Do not put block-level elements inside inline elements'; }
+
+code h6::after {
+  content: 'Do not put block-level elements inside inline elements'; }
+
+dfn h6::after {
+  content: 'Do not put block-level elements inside inline elements'; }
+
+em h6::after {
+  content: 'Do not put block-level elements inside inline elements'; }
+
+i h6::after {
+  content: 'Do not put block-level elements inside inline elements'; }
+
+input h6::after {
+  content: 'Do not put block-level elements inside inline elements'; }
+
+kbd h6::after {
+  content: 'Do not put block-level elements inside inline elements'; }
+
+label h6::after {
+  content: 'Do not put block-level elements inside inline elements'; }
+
+map h6::after {
+  content: 'Do not put block-level elements inside inline elements'; }
+
+object h6::after {
+  content: 'Do not put block-level elements inside inline elements'; }
+
+q h6::after {
+  content: 'Do not put block-level elements inside inline elements'; }
+
+samp h6::after {
+  content: 'Do not put block-level elements inside inline elements'; }
+
+select h6::after {
+  content: 'Do not put block-level elements inside inline elements'; }
+
+small h6::after {
+  content: 'Do not put block-level elements inside inline elements'; }
+
+span h6::after {
+  content: 'Do not put block-level elements inside inline elements'; }
+
+strong h6::after {
+  content: 'Do not put block-level elements inside inline elements'; }
+
+sub h6::after {
+  content: 'Do not put block-level elements inside inline elements'; }
+
+sup h6::after {
+  content: 'Do not put block-level elements inside inline elements'; }
+
+textarea h6::after {
+  content: 'Do not put block-level elements inside inline elements'; }
+
+var h6::after {
+  content: 'Do not put block-level elements inside inline elements'; }
+
+abbr hr::after {
+  content: 'Do not put block-level elements inside inline elements'; }
+
+b hr::after {
+  content: 'Do not put block-level elements inside inline elements'; }
+
+bdo hr::after {
+  content: 'Do not put block-level elements inside inline elements'; }
+
+button hr::after {
+  content: 'Do not put block-level elements inside inline elements'; }
+
+cite hr::after {
+  content: 'Do not put block-level elements inside inline elements'; }
+
+code hr::after {
+  content: 'Do not put block-level elements inside inline elements'; }
+
+dfn hr::after {
+  content: 'Do not put block-level elements inside inline elements'; }
+
+em hr::after {
+  content: 'Do not put block-level elements inside inline elements'; }
+
+i hr::after {
+  content: 'Do not put block-level elements inside inline elements'; }
+
+input hr::after {
+  content: 'Do not put block-level elements inside inline elements'; }
+
+kbd hr::after {
+  content: 'Do not put block-level elements inside inline elements'; }
+
+label hr::after {
+  content: 'Do not put block-level elements inside inline elements'; }
+
+map hr::after {
+  content: 'Do not put block-level elements inside inline elements'; }
+
+object hr::after {
+  content: 'Do not put block-level elements inside inline elements'; }
+
+q hr::after {
+  content: 'Do not put block-level elements inside inline elements'; }
+
+samp hr::after {
+  content: 'Do not put block-level elements inside inline elements'; }
+
+select hr::after {
+  content: 'Do not put block-level elements inside inline elements'; }
+
+small hr::after {
+  content: 'Do not put block-level elements inside inline elements'; }
+
+span hr::after {
+  content: 'Do not put block-level elements inside inline elements'; }
+
+strong hr::after {
+  content: 'Do not put block-level elements inside inline elements'; }
+
+sub hr::after {
+  content: 'Do not put block-level elements inside inline elements'; }
+
+sup hr::after {
+  content: 'Do not put block-level elements inside inline elements'; }
+
+textarea hr::after {
+  content: 'Do not put block-level elements inside inline elements'; }
+
+var hr::after {
+  content: 'Do not put block-level elements inside inline elements'; }
+
+abbr noscript::after {
+  content: 'Do not put block-level elements inside inline elements'; }
+
+b noscript::after {
+  content: 'Do not put block-level elements inside inline elements'; }
+
+bdo noscript::after {
+  content: 'Do not put block-level elements inside inline elements'; }
+
+button noscript::after {
+  content: 'Do not put block-level elements inside inline elements'; }
+
+cite noscript::after {
+  content: 'Do not put block-level elements inside inline elements'; }
+
+code noscript::after {
+  content: 'Do not put block-level elements inside inline elements'; }
+
+dfn noscript::after {
+  content: 'Do not put block-level elements inside inline elements'; }
+
+em noscript::after {
+  content: 'Do not put block-level elements inside inline elements'; }
+
+i noscript::after {
+  content: 'Do not put block-level elements inside inline elements'; }
+
+input noscript::after {
+  content: 'Do not put block-level elements inside inline elements'; }
+
+kbd noscript::after {
+  content: 'Do not put block-level elements inside inline elements'; }
+
+label noscript::after {
+  content: 'Do not put block-level elements inside inline elements'; }
+
+map noscript::after {
+  content: 'Do not put block-level elements inside inline elements'; }
+
+object noscript::after {
+  content: 'Do not put block-level elements inside inline elements'; }
+
+q noscript::after {
+  content: 'Do not put block-level elements inside inline elements'; }
+
+samp noscript::after {
+  content: 'Do not put block-level elements inside inline elements'; }
+
+select noscript::after {
+  content: 'Do not put block-level elements inside inline elements'; }
+
+small noscript::after {
+  content: 'Do not put block-level elements inside inline elements'; }
+
+span noscript::after {
+  content: 'Do not put block-level elements inside inline elements'; }
+
+strong noscript::after {
+  content: 'Do not put block-level elements inside inline elements'; }
+
+sub noscript::after {
+  content: 'Do not put block-level elements inside inline elements'; }
+
+sup noscript::after {
+  content: 'Do not put block-level elements inside inline elements'; }
+
+textarea noscript::after {
+  content: 'Do not put block-level elements inside inline elements'; }
+
+var noscript::after {
+  content: 'Do not put block-level elements inside inline elements'; }
+
+abbr ol::after {
+  content: 'Do not put block-level elements inside inline elements'; }
+
+b ol::after {
+  content: 'Do not put block-level elements inside inline elements'; }
+
+bdo ol::after {
+  content: 'Do not put block-level elements inside inline elements'; }
+
+button ol::after {
+  content: 'Do not put block-level elements inside inline elements'; }
+
+cite ol::after {
+  content: 'Do not put block-level elements inside inline elements'; }
+
+code ol::after {
+  content: 'Do not put block-level elements inside inline elements'; }
+
+dfn ol::after {
+  content: 'Do not put block-level elements inside inline elements'; }
+
+em ol::after {
+  content: 'Do not put block-level elements inside inline elements'; }
+
+i ol::after {
+  content: 'Do not put block-level elements inside inline elements'; }
+
+input ol::after {
+  content: 'Do not put block-level elements inside inline elements'; }
+
+kbd ol::after {
+  content: 'Do not put block-level elements inside inline elements'; }
+
+label ol::after {
+  content: 'Do not put block-level elements inside inline elements'; }
+
+map ol::after {
+  content: 'Do not put block-level elements inside inline elements'; }
+
+object ol::after {
+  content: 'Do not put block-level elements inside inline elements'; }
+
+q ol::after {
+  content: 'Do not put block-level elements inside inline elements'; }
+
+samp ol::after {
+  content: 'Do not put block-level elements inside inline elements'; }
+
+select ol::after {
+  content: 'Do not put block-level elements inside inline elements'; }
+
+small ol::after {
+  content: 'Do not put block-level elements inside inline elements'; }
+
+span ol::after {
+  content: 'Do not put block-level elements inside inline elements'; }
+
+strong ol::after {
+  content: 'Do not put block-level elements inside inline elements'; }
+
+sub ol::after {
+  content: 'Do not put block-level elements inside inline elements'; }
+
+sup ol::after {
+  content: 'Do not put block-level elements inside inline elements'; }
+
+textarea ol::after {
+  content: 'Do not put block-level elements inside inline elements'; }
+
+var ol::after {
+  content: 'Do not put block-level elements inside inline elements'; }
+
+abbr p::after {
+  content: 'Do not put block-level elements inside inline elements'; }
+
+b p::after {
+  content: 'Do not put block-level elements inside inline elements'; }
+
+bdo p::after {
+  content: 'Do not put block-level elements inside inline elements'; }
+
+button p::after {
+  content: 'Do not put block-level elements inside inline elements'; }
+
+cite p::after {
+  content: 'Do not put block-level elements inside inline elements'; }
+
+code p::after {
+  content: 'Do not put block-level elements inside inline elements'; }
+
+dfn p::after {
+  content: 'Do not put block-level elements inside inline elements'; }
+
+em p::after {
+  content: 'Do not put block-level elements inside inline elements'; }
+
+i p::after {
+  content: 'Do not put block-level elements inside inline elements'; }
+
+input p::after {
+  content: 'Do not put block-level elements inside inline elements'; }
+
+kbd p::after {
+  content: 'Do not put block-level elements inside inline elements'; }
+
+label p::after {
+  content: 'Do not put block-level elements inside inline elements'; }
+
+map p::after {
+  content: 'Do not put block-level elements inside inline elements'; }
+
+object p::after {
+  content: 'Do not put block-level elements inside inline elements'; }
+
+q p::after {
+  content: 'Do not put block-level elements inside inline elements'; }
+
+samp p::after {
+  content: 'Do not put block-level elements inside inline elements'; }
+
+select p::after {
+  content: 'Do not put block-level elements inside inline elements'; }
+
+small p::after {
+  content: 'Do not put block-level elements inside inline elements'; }
+
+span p::after {
+  content: 'Do not put block-level elements inside inline elements'; }
+
+strong p::after {
+  content: 'Do not put block-level elements inside inline elements'; }
+
+sub p::after {
+  content: 'Do not put block-level elements inside inline elements'; }
+
+sup p::after {
+  content: 'Do not put block-level elements inside inline elements'; }
+
+textarea p::after {
+  content: 'Do not put block-level elements inside inline elements'; }
+
+var p::after {
+  content: 'Do not put block-level elements inside inline elements'; }
+
+abbr pre::after {
+  content: 'Do not put block-level elements inside inline elements'; }
+
+b pre::after {
+  content: 'Do not put block-level elements inside inline elements'; }
+
+bdo pre::after {
+  content: 'Do not put block-level elements inside inline elements'; }
+
+button pre::after {
+  content: 'Do not put block-level elements inside inline elements'; }
+
+cite pre::after {
+  content: 'Do not put block-level elements inside inline elements'; }
+
+code pre::after {
+  content: 'Do not put block-level elements inside inline elements'; }
+
+dfn pre::after {
+  content: 'Do not put block-level elements inside inline elements'; }
+
+em pre::after {
+  content: 'Do not put block-level elements inside inline elements'; }
+
+i pre::after {
+  content: 'Do not put block-level elements inside inline elements'; }
+
+input pre::after {
+  content: 'Do not put block-level elements inside inline elements'; }
+
+kbd pre::after {
+  content: 'Do not put block-level elements inside inline elements'; }
+
+label pre::after {
+  content: 'Do not put block-level elements inside inline elements'; }
+
+map pre::after {
+  content: 'Do not put block-level elements inside inline elements'; }
+
+object pre::after {
+  content: 'Do not put block-level elements inside inline elements'; }
+
+q pre::after {
+  content: 'Do not put block-level elements inside inline elements'; }
+
+samp pre::after {
+  content: 'Do not put block-level elements inside inline elements'; }
+
+select pre::after {
+  content: 'Do not put block-level elements inside inline elements'; }
+
+small pre::after {
+  content: 'Do not put block-level elements inside inline elements'; }
+
+span pre::after {
+  content: 'Do not put block-level elements inside inline elements'; }
+
+strong pre::after {
+  content: 'Do not put block-level elements inside inline elements'; }
+
+sub pre::after {
+  content: 'Do not put block-level elements inside inline elements'; }
+
+sup pre::after {
+  content: 'Do not put block-level elements inside inline elements'; }
+
+textarea pre::after {
+  content: 'Do not put block-level elements inside inline elements'; }
+
+var pre::after {
+  content: 'Do not put block-level elements inside inline elements'; }
+
+abbr table::after {
+  content: 'Do not put block-level elements inside inline elements'; }
+
+b table::after {
+  content: 'Do not put block-level elements inside inline elements'; }
+
+bdo table::after {
+  content: 'Do not put block-level elements inside inline elements'; }
+
+button table::after {
+  content: 'Do not put block-level elements inside inline elements'; }
+
+cite table::after {
+  content: 'Do not put block-level elements inside inline elements'; }
+
+code table::after {
+  content: 'Do not put block-level elements inside inline elements'; }
+
+dfn table::after {
+  content: 'Do not put block-level elements inside inline elements'; }
+
+em table::after {
+  content: 'Do not put block-level elements inside inline elements'; }
+
+i table::after {
+  content: 'Do not put block-level elements inside inline elements'; }
+
+input table::after {
+  content: 'Do not put block-level elements inside inline elements'; }
+
+kbd table::after {
+  content: 'Do not put block-level elements inside inline elements'; }
+
+label table::after {
+  content: 'Do not put block-level elements inside inline elements'; }
+
+map table::after {
+  content: 'Do not put block-level elements inside inline elements'; }
+
+object table::after {
+  content: 'Do not put block-level elements inside inline elements'; }
+
+q table::after {
+  content: 'Do not put block-level elements inside inline elements'; }
+
+samp table::after {
+  content: 'Do not put block-level elements inside inline elements'; }
+
+select table::after {
+  content: 'Do not put block-level elements inside inline elements'; }
+
+small table::after {
+  content: 'Do not put block-level elements inside inline elements'; }
+
+span table::after {
+  content: 'Do not put block-level elements inside inline elements'; }
+
+strong table::after {
+  content: 'Do not put block-level elements inside inline elements'; }
+
+sub table::after {
+  content: 'Do not put block-level elements inside inline elements'; }
+
+sup table::after {
+  content: 'Do not put block-level elements inside inline elements'; }
+
+textarea table::after {
+  content: 'Do not put block-level elements inside inline elements'; }
+
+var table::after {
+  content: 'Do not put block-level elements inside inline elements'; }
+
+abbr ul::after {
+  content: 'Do not put block-level elements inside inline elements'; }
+
+b ul::after {
+  content: 'Do not put block-level elements inside inline elements'; }
+
+bdo ul::after {
+  content: 'Do not put block-level elements inside inline elements'; }
+
+button ul::after {
+  content: 'Do not put block-level elements inside inline elements'; }
+
+cite ul::after {
+  content: 'Do not put block-level elements inside inline elements'; }
+
+code ul::after {
+  content: 'Do not put block-level elements inside inline elements'; }
+
+dfn ul::after {
+  content: 'Do not put block-level elements inside inline elements'; }
+
+em ul::after {
+  content: 'Do not put block-level elements inside inline elements'; }
+
+i ul::after {
+  content: 'Do not put block-level elements inside inline elements'; }
+
+input ul::after {
+  content: 'Do not put block-level elements inside inline elements'; }
+
+kbd ul::after {
+  content: 'Do not put block-level elements inside inline elements'; }
+
+label ul::after {
+  content: 'Do not put block-level elements inside inline elements'; }
+
+map ul::after {
+  content: 'Do not put block-level elements inside inline elements'; }
+
+object ul::after {
+  content: 'Do not put block-level elements inside inline elements'; }
+
+q ul::after {
+  content: 'Do not put block-level elements inside inline elements'; }
+
+samp ul::after {
+  content: 'Do not put block-level elements inside inline elements'; }
+
+select ul::after {
+  content: 'Do not put block-level elements inside inline elements'; }
+
+small ul::after {
+  content: 'Do not put block-level elements inside inline elements'; }
+
+span ul::after {
+  content: 'Do not put block-level elements inside inline elements'; }
+
+strong ul::after {
+  content: 'Do not put block-level elements inside inline elements'; }
+
+sub ul::after {
+  content: 'Do not put block-level elements inside inline elements'; }
+
+sup ul::after {
+  content: 'Do not put block-level elements inside inline elements'; }
+
+textarea ul::after {
+  content: 'Do not put block-level elements inside inline elements'; }
+
+var ul::after {
+  content: 'Do not put block-level elements inside inline elements'; }
+
+abbr article::after {
+  content: 'Do not put block-level elements inside inline elements'; }
+
+b article::after {
+  content: 'Do not put block-level elements inside inline elements'; }
+
+bdo article::after {
+  content: 'Do not put block-level elements inside inline elements'; }
+
+button article::after {
+  content: 'Do not put block-level elements inside inline elements'; }
+
+cite article::after {
+  content: 'Do not put block-level elements inside inline elements'; }
+
+code article::after {
+  content: 'Do not put block-level elements inside inline elements'; }
+
+dfn article::after {
+  content: 'Do not put block-level elements inside inline elements'; }
+
+em article::after {
+  content: 'Do not put block-level elements inside inline elements'; }
+
+i article::after {
+  content: 'Do not put block-level elements inside inline elements'; }
+
+input article::after {
+  content: 'Do not put block-level elements inside inline elements'; }
+
+kbd article::after {
+  content: 'Do not put block-level elements inside inline elements'; }
+
+label article::after {
+  content: 'Do not put block-level elements inside inline elements'; }
+
+map article::after {
+  content: 'Do not put block-level elements inside inline elements'; }
+
+object article::after {
+  content: 'Do not put block-level elements inside inline elements'; }
+
+q article::after {
+  content: 'Do not put block-level elements inside inline elements'; }
+
+samp article::after {
+  content: 'Do not put block-level elements inside inline elements'; }
+
+select article::after {
+  content: 'Do not put block-level elements inside inline elements'; }
+
+small article::after {
+  content: 'Do not put block-level elements inside inline elements'; }
+
+span article::after {
+  content: 'Do not put block-level elements inside inline elements'; }
+
+strong article::after {
+  content: 'Do not put block-level elements inside inline elements'; }
+
+sub article::after {
+  content: 'Do not put block-level elements inside inline elements'; }
+
+sup article::after {
+  content: 'Do not put block-level elements inside inline elements'; }
+
+textarea article::after {
+  content: 'Do not put block-level elements inside inline elements'; }
+
+var article::after {
+  content: 'Do not put block-level elements inside inline elements'; }
+
+abbr aside::after {
+  content: 'Do not put block-level elements inside inline elements'; }
+
+b aside::after {
+  content: 'Do not put block-level elements inside inline elements'; }
+
+bdo aside::after {
+  content: 'Do not put block-level elements inside inline elements'; }
+
+button aside::after {
+  content: 'Do not put block-level elements inside inline elements'; }
+
+cite aside::after {
+  content: 'Do not put block-level elements inside inline elements'; }
+
+code aside::after {
+  content: 'Do not put block-level elements inside inline elements'; }
+
+dfn aside::after {
+  content: 'Do not put block-level elements inside inline elements'; }
+
+em aside::after {
+  content: 'Do not put block-level elements inside inline elements'; }
+
+i aside::after {
+  content: 'Do not put block-level elements inside inline elements'; }
+
+input aside::after {
+  content: 'Do not put block-level elements inside inline elements'; }
+
+kbd aside::after {
+  content: 'Do not put block-level elements inside inline elements'; }
+
+label aside::after {
+  content: 'Do not put block-level elements inside inline elements'; }
+
+map aside::after {
+  content: 'Do not put block-level elements inside inline elements'; }
+
+object aside::after {
+  content: 'Do not put block-level elements inside inline elements'; }
+
+q aside::after {
+  content: 'Do not put block-level elements inside inline elements'; }
+
+samp aside::after {
+  content: 'Do not put block-level elements inside inline elements'; }
+
+select aside::after {
+  content: 'Do not put block-level elements inside inline elements'; }
+
+small aside::after {
+  content: 'Do not put block-level elements inside inline elements'; }
+
+span aside::after {
+  content: 'Do not put block-level elements inside inline elements'; }
+
+strong aside::after {
+  content: 'Do not put block-level elements inside inline elements'; }
+
+sub aside::after {
+  content: 'Do not put block-level elements inside inline elements'; }
+
+sup aside::after {
+  content: 'Do not put block-level elements inside inline elements'; }
+
+textarea aside::after {
+  content: 'Do not put block-level elements inside inline elements'; }
+
+var aside::after {
+  content: 'Do not put block-level elements inside inline elements'; }
+
+abbr audio::after {
+  content: 'Do not put block-level elements inside inline elements'; }
+
+b audio::after {
+  content: 'Do not put block-level elements inside inline elements'; }
+
+bdo audio::after {
+  content: 'Do not put block-level elements inside inline elements'; }
+
+button audio::after {
+  content: 'Do not put block-level elements inside inline elements'; }
+
+cite audio::after {
+  content: 'Do not put block-level elements inside inline elements'; }
+
+code audio::after {
+  content: 'Do not put block-level elements inside inline elements'; }
+
+dfn audio::after {
+  content: 'Do not put block-level elements inside inline elements'; }
+
+em audio::after {
+  content: 'Do not put block-level elements inside inline elements'; }
+
+i audio::after {
+  content: 'Do not put block-level elements inside inline elements'; }
+
+input audio::after {
+  content: 'Do not put block-level elements inside inline elements'; }
+
+kbd audio::after {
+  content: 'Do not put block-level elements inside inline elements'; }
+
+label audio::after {
+  content: 'Do not put block-level elements inside inline elements'; }
+
+map audio::after {
+  content: 'Do not put block-level elements inside inline elements'; }
+
+object audio::after {
+  content: 'Do not put block-level elements inside inline elements'; }
+
+q audio::after {
+  content: 'Do not put block-level elements inside inline elements'; }
+
+samp audio::after {
+  content: 'Do not put block-level elements inside inline elements'; }
+
+select audio::after {
+  content: 'Do not put block-level elements inside inline elements'; }
+
+small audio::after {
+  content: 'Do not put block-level elements inside inline elements'; }
+
+span audio::after {
+  content: 'Do not put block-level elements inside inline elements'; }
+
+strong audio::after {
+  content: 'Do not put block-level elements inside inline elements'; }
+
+sub audio::after {
+  content: 'Do not put block-level elements inside inline elements'; }
+
+sup audio::after {
+  content: 'Do not put block-level elements inside inline elements'; }
+
+textarea audio::after {
+  content: 'Do not put block-level elements inside inline elements'; }
+
+var audio::after {
+  content: 'Do not put block-level elements inside inline elements'; }
+
+abbr canvas::after {
+  content: 'Do not put block-level elements inside inline elements'; }
+
+b canvas::after {
+  content: 'Do not put block-level elements inside inline elements'; }
+
+bdo canvas::after {
+  content: 'Do not put block-level elements inside inline elements'; }
+
+button canvas::after {
+  content: 'Do not put block-level elements inside inline elements'; }
+
+cite canvas::after {
+  content: 'Do not put block-level elements inside inline elements'; }
+
+code canvas::after {
+  content: 'Do not put block-level elements inside inline elements'; }
+
+dfn canvas::after {
+  content: 'Do not put block-level elements inside inline elements'; }
+
+em canvas::after {
+  content: 'Do not put block-level elements inside inline elements'; }
+
+i canvas::after {
+  content: 'Do not put block-level elements inside inline elements'; }
+
+input canvas::after {
+  content: 'Do not put block-level elements inside inline elements'; }
+
+kbd canvas::after {
+  content: 'Do not put block-level elements inside inline elements'; }
+
+label canvas::after {
+  content: 'Do not put block-level elements inside inline elements'; }
+
+map canvas::after {
+  content: 'Do not put block-level elements inside inline elements'; }
+
+object canvas::after {
+  content: 'Do not put block-level elements inside inline elements'; }
+
+q canvas::after {
+  content: 'Do not put block-level elements inside inline elements'; }
+
+samp canvas::after {
+  content: 'Do not put block-level elements inside inline elements'; }
+
+select canvas::after {
+  content: 'Do not put block-level elements inside inline elements'; }
+
+small canvas::after {
+  content: 'Do not put block-level elements inside inline elements'; }
+
+span canvas::after {
+  content: 'Do not put block-level elements inside inline elements'; }
+
+strong canvas::after {
+  content: 'Do not put block-level elements inside inline elements'; }
+
+sub canvas::after {
+  content: 'Do not put block-level elements inside inline elements'; }
+
+sup canvas::after {
+  content: 'Do not put block-level elements inside inline elements'; }
+
+textarea canvas::after {
+  content: 'Do not put block-level elements inside inline elements'; }
+
+var canvas::after {
+  content: 'Do not put block-level elements inside inline elements'; }
+
+abbr figcaption::after {
+  content: 'Do not put block-level elements inside inline elements'; }
+
+b figcaption::after {
+  content: 'Do not put block-level elements inside inline elements'; }
+
+bdo figcaption::after {
+  content: 'Do not put block-level elements inside inline elements'; }
+
+button figcaption::after {
+  content: 'Do not put block-level elements inside inline elements'; }
+
+cite figcaption::after {
+  content: 'Do not put block-level elements inside inline elements'; }
+
+code figcaption::after {
+  content: 'Do not put block-level elements inside inline elements'; }
+
+dfn figcaption::after {
+  content: 'Do not put block-level elements inside inline elements'; }
+
+em figcaption::after {
+  content: 'Do not put block-level elements inside inline elements'; }
+
+i figcaption::after {
+  content: 'Do not put block-level elements inside inline elements'; }
+
+input figcaption::after {
+  content: 'Do not put block-level elements inside inline elements'; }
+
+kbd figcaption::after {
+  content: 'Do not put block-level elements inside inline elements'; }
+
+label figcaption::after {
+  content: 'Do not put block-level elements inside inline elements'; }
+
+map figcaption::after {
+  content: 'Do not put block-level elements inside inline elements'; }
+
+object figcaption::after {
+  content: 'Do not put block-level elements inside inline elements'; }
+
+q figcaption::after {
+  content: 'Do not put block-level elements inside inline elements'; }
+
+samp figcaption::after {
+  content: 'Do not put block-level elements inside inline elements'; }
+
+select figcaption::after {
+  content: 'Do not put block-level elements inside inline elements'; }
+
+small figcaption::after {
+  content: 'Do not put block-level elements inside inline elements'; }
+
+span figcaption::after {
+  content: 'Do not put block-level elements inside inline elements'; }
+
+strong figcaption::after {
+  content: 'Do not put block-level elements inside inline elements'; }
+
+sub figcaption::after {
+  content: 'Do not put block-level elements inside inline elements'; }
+
+sup figcaption::after {
+  content: 'Do not put block-level elements inside inline elements'; }
+
+textarea figcaption::after {
+  content: 'Do not put block-level elements inside inline elements'; }
+
+var figcaption::after {
+  content: 'Do not put block-level elements inside inline elements'; }
+
+abbr figure::after {
+  content: 'Do not put block-level elements inside inline elements'; }
+
+b figure::after {
+  content: 'Do not put block-level elements inside inline elements'; }
+
+bdo figure::after {
+  content: 'Do not put block-level elements inside inline elements'; }
+
+button figure::after {
+  content: 'Do not put block-level elements inside inline elements'; }
+
+cite figure::after {
+  content: 'Do not put block-level elements inside inline elements'; }
+
+code figure::after {
+  content: 'Do not put block-level elements inside inline elements'; }
+
+dfn figure::after {
+  content: 'Do not put block-level elements inside inline elements'; }
+
+em figure::after {
+  content: 'Do not put block-level elements inside inline elements'; }
+
+i figure::after {
+  content: 'Do not put block-level elements inside inline elements'; }
+
+input figure::after {
+  content: 'Do not put block-level elements inside inline elements'; }
+
+kbd figure::after {
+  content: 'Do not put block-level elements inside inline elements'; }
+
+label figure::after {
+  content: 'Do not put block-level elements inside inline elements'; }
+
+map figure::after {
+  content: 'Do not put block-level elements inside inline elements'; }
+
+object figure::after {
+  content: 'Do not put block-level elements inside inline elements'; }
+
+q figure::after {
+  content: 'Do not put block-level elements inside inline elements'; }
+
+samp figure::after {
+  content: 'Do not put block-level elements inside inline elements'; }
+
+select figure::after {
+  content: 'Do not put block-level elements inside inline elements'; }
+
+small figure::after {
+  content: 'Do not put block-level elements inside inline elements'; }
+
+span figure::after {
+  content: 'Do not put block-level elements inside inline elements'; }
+
+strong figure::after {
+  content: 'Do not put block-level elements inside inline elements'; }
+
+sub figure::after {
+  content: 'Do not put block-level elements inside inline elements'; }
+
+sup figure::after {
+  content: 'Do not put block-level elements inside inline elements'; }
+
+textarea figure::after {
+  content: 'Do not put block-level elements inside inline elements'; }
+
+var figure::after {
+  content: 'Do not put block-level elements inside inline elements'; }
+
+abbr footer::after {
+  content: 'Do not put block-level elements inside inline elements'; }
+
+b footer::after {
+  content: 'Do not put block-level elements inside inline elements'; }
+
+bdo footer::after {
+  content: 'Do not put block-level elements inside inline elements'; }
+
+button footer::after {
+  content: 'Do not put block-level elements inside inline elements'; }
+
+cite footer::after {
+  content: 'Do not put block-level elements inside inline elements'; }
+
+code footer::after {
+  content: 'Do not put block-level elements inside inline elements'; }
+
+dfn footer::after {
+  content: 'Do not put block-level elements inside inline elements'; }
+
+em footer::after {
+  content: 'Do not put block-level elements inside inline elements'; }
+
+i footer::after {
+  content: 'Do not put block-level elements inside inline elements'; }
+
+input footer::after {
+  content: 'Do not put block-level elements inside inline elements'; }
+
+kbd footer::after {
+  content: 'Do not put block-level elements inside inline elements'; }
+
+label footer::after {
+  content: 'Do not put block-level elements inside inline elements'; }
+
+map footer::after {
+  content: 'Do not put block-level elements inside inline elements'; }
+
+object footer::after {
+  content: 'Do not put block-level elements inside inline elements'; }
+
+q footer::after {
+  content: 'Do not put block-level elements inside inline elements'; }
+
+samp footer::after {
+  content: 'Do not put block-level elements inside inline elements'; }
+
+select footer::after {
+  content: 'Do not put block-level elements inside inline elements'; }
+
+small footer::after {
+  content: 'Do not put block-level elements inside inline elements'; }
+
+span footer::after {
+  content: 'Do not put block-level elements inside inline elements'; }
+
+strong footer::after {
+  content: 'Do not put block-level elements inside inline elements'; }
+
+sub footer::after {
+  content: 'Do not put block-level elements inside inline elements'; }
+
+sup footer::after {
+  content: 'Do not put block-level elements inside inline elements'; }
+
+textarea footer::after {
+  content: 'Do not put block-level elements inside inline elements'; }
+
+var footer::after {
+  content: 'Do not put block-level elements inside inline elements'; }
+
+abbr header::after {
+  content: 'Do not put block-level elements inside inline elements'; }
+
+b header::after {
+  content: 'Do not put block-level elements inside inline elements'; }
+
+bdo header::after {
+  content: 'Do not put block-level elements inside inline elements'; }
+
+button header::after {
+  content: 'Do not put block-level elements inside inline elements'; }
+
+cite header::after {
+  content: 'Do not put block-level elements inside inline elements'; }
+
+code header::after {
+  content: 'Do not put block-level elements inside inline elements'; }
+
+dfn header::after {
+  content: 'Do not put block-level elements inside inline elements'; }
+
+em header::after {
+  content: 'Do not put block-level elements inside inline elements'; }
+
+i header::after {
+  content: 'Do not put block-level elements inside inline elements'; }
+
+input header::after {
+  content: 'Do not put block-level elements inside inline elements'; }
+
+kbd header::after {
+  content: 'Do not put block-level elements inside inline elements'; }
+
+label header::after {
+  content: 'Do not put block-level elements inside inline elements'; }
+
+map header::after {
+  content: 'Do not put block-level elements inside inline elements'; }
+
+object header::after {
+  content: 'Do not put block-level elements inside inline elements'; }
+
+q header::after {
+  content: 'Do not put block-level elements inside inline elements'; }
+
+samp header::after {
+  content: 'Do not put block-level elements inside inline elements'; }
+
+select header::after {
+  content: 'Do not put block-level elements inside inline elements'; }
+
+small header::after {
+  content: 'Do not put block-level elements inside inline elements'; }
+
+span header::after {
+  content: 'Do not put block-level elements inside inline elements'; }
+
+strong header::after {
+  content: 'Do not put block-level elements inside inline elements'; }
+
+sub header::after {
+  content: 'Do not put block-level elements inside inline elements'; }
+
+sup header::after {
+  content: 'Do not put block-level elements inside inline elements'; }
+
+textarea header::after {
+  content: 'Do not put block-level elements inside inline elements'; }
+
+var header::after {
+  content: 'Do not put block-level elements inside inline elements'; }
+
+abbr hgroup::after {
+  content: 'Do not put block-level elements inside inline elements'; }
+
+b hgroup::after {
+  content: 'Do not put block-level elements inside inline elements'; }
+
+bdo hgroup::after {
+  content: 'Do not put block-level elements inside inline elements'; }
+
+button hgroup::after {
+  content: 'Do not put block-level elements inside inline elements'; }
+
+cite hgroup::after {
+  content: 'Do not put block-level elements inside inline elements'; }
+
+code hgroup::after {
+  content: 'Do not put block-level elements inside inline elements'; }
+
+dfn hgroup::after {
+  content: 'Do not put block-level elements inside inline elements'; }
+
+em hgroup::after {
+  content: 'Do not put block-level elements inside inline elements'; }
+
+i hgroup::after {
+  content: 'Do not put block-level elements inside inline elements'; }
+
+input hgroup::after {
+  content: 'Do not put block-level elements inside inline elements'; }
+
+kbd hgroup::after {
+  content: 'Do not put block-level elements inside inline elements'; }
+
+label hgroup::after {
+  content: 'Do not put block-level elements inside inline elements'; }
+
+map hgroup::after {
+  content: 'Do not put block-level elements inside inline elements'; }
+
+object hgroup::after {
+  content: 'Do not put block-level elements inside inline elements'; }
+
+q hgroup::after {
+  content: 'Do not put block-level elements inside inline elements'; }
+
+samp hgroup::after {
+  content: 'Do not put block-level elements inside inline elements'; }
+
+select hgroup::after {
+  content: 'Do not put block-level elements inside inline elements'; }
+
+small hgroup::after {
+  content: 'Do not put block-level elements inside inline elements'; }
+
+span hgroup::after {
+  content: 'Do not put block-level elements inside inline elements'; }
+
+strong hgroup::after {
+  content: 'Do not put block-level elements inside inline elements'; }
+
+sub hgroup::after {
+  content: 'Do not put block-level elements inside inline elements'; }
+
+sup hgroup::after {
+  content: 'Do not put block-level elements inside inline elements'; }
+
+textarea hgroup::after {
+  content: 'Do not put block-level elements inside inline elements'; }
+
+var hgroup::after {
+  content: 'Do not put block-level elements inside inline elements'; }
+
+abbr output::after {
+  content: 'Do not put block-level elements inside inline elements'; }
+
+b output::after {
+  content: 'Do not put block-level elements inside inline elements'; }
+
+bdo output::after {
+  content: 'Do not put block-level elements inside inline elements'; }
+
+button output::after {
+  content: 'Do not put block-level elements inside inline elements'; }
+
+cite output::after {
+  content: 'Do not put block-level elements inside inline elements'; }
+
+code output::after {
+  content: 'Do not put block-level elements inside inline elements'; }
+
+dfn output::after {
+  content: 'Do not put block-level elements inside inline elements'; }
+
+em output::after {
+  content: 'Do not put block-level elements inside inline elements'; }
+
+i output::after {
+  content: 'Do not put block-level elements inside inline elements'; }
+
+input output::after {
+  content: 'Do not put block-level elements inside inline elements'; }
+
+kbd output::after {
+  content: 'Do not put block-level elements inside inline elements'; }
+
+label output::after {
+  content: 'Do not put block-level elements inside inline elements'; }
+
+map output::after {
+  content: 'Do not put block-level elements inside inline elements'; }
+
+object output::after {
+  content: 'Do not put block-level elements inside inline elements'; }
+
+q output::after {
+  content: 'Do not put block-level elements inside inline elements'; }
+
+samp output::after {
+  content: 'Do not put block-level elements inside inline elements'; }
+
+select output::after {
+  content: 'Do not put block-level elements inside inline elements'; }
+
+small output::after {
+  content: 'Do not put block-level elements inside inline elements'; }
+
+span output::after {
+  content: 'Do not put block-level elements inside inline elements'; }
+
+strong output::after {
+  content: 'Do not put block-level elements inside inline elements'; }
+
+sub output::after {
+  content: 'Do not put block-level elements inside inline elements'; }
+
+sup output::after {
+  content: 'Do not put block-level elements inside inline elements'; }
+
+textarea output::after {
+  content: 'Do not put block-level elements inside inline elements'; }
+
+var output::after {
+  content: 'Do not put block-level elements inside inline elements'; }
+
+abbr section::after {
+  content: 'Do not put block-level elements inside inline elements'; }
+
+b section::after {
+  content: 'Do not put block-level elements inside inline elements'; }
+
+bdo section::after {
+  content: 'Do not put block-level elements inside inline elements'; }
+
+button section::after {
+  content: 'Do not put block-level elements inside inline elements'; }
+
+cite section::after {
+  content: 'Do not put block-level elements inside inline elements'; }
+
+code section::after {
+  content: 'Do not put block-level elements inside inline elements'; }
+
+dfn section::after {
+  content: 'Do not put block-level elements inside inline elements'; }
+
+em section::after {
+  content: 'Do not put block-level elements inside inline elements'; }
+
+i section::after {
+  content: 'Do not put block-level elements inside inline elements'; }
+
+input section::after {
+  content: 'Do not put block-level elements inside inline elements'; }
+
+kbd section::after {
+  content: 'Do not put block-level elements inside inline elements'; }
+
+label section::after {
+  content: 'Do not put block-level elements inside inline elements'; }
+
+map section::after {
+  content: 'Do not put block-level elements inside inline elements'; }
+
+object section::after {
+  content: 'Do not put block-level elements inside inline elements'; }
+
+q section::after {
+  content: 'Do not put block-level elements inside inline elements'; }
+
+samp section::after {
+  content: 'Do not put block-level elements inside inline elements'; }
+
+select section::after {
+  content: 'Do not put block-level elements inside inline elements'; }
+
+small section::after {
+  content: 'Do not put block-level elements inside inline elements'; }
+
+span section::after {
+  content: 'Do not put block-level elements inside inline elements'; }
+
+strong section::after {
+  content: 'Do not put block-level elements inside inline elements'; }
+
+sub section::after {
+  content: 'Do not put block-level elements inside inline elements'; }
+
+sup section::after {
+  content: 'Do not put block-level elements inside inline elements'; }
+
+textarea section::after {
+  content: 'Do not put block-level elements inside inline elements'; }
+
+var section::after {
+  content: 'Do not put block-level elements inside inline elements'; }
+
+abbr video::after {
+  content: 'Do not put block-level elements inside inline elements'; }
+
+b video::after {
+  content: 'Do not put block-level elements inside inline elements'; }
+
+bdo video::after {
+  content: 'Do not put block-level elements inside inline elements'; }
+
+button video::after {
+  content: 'Do not put block-level elements inside inline elements'; }
+
+cite video::after {
+  content: 'Do not put block-level elements inside inline elements'; }
+
+code video::after {
+  content: 'Do not put block-level elements inside inline elements'; }
+
+dfn video::after {
+  content: 'Do not put block-level elements inside inline elements'; }
+
+em video::after {
+  content: 'Do not put block-level elements inside inline elements'; }
+
+i video::after {
+  content: 'Do not put block-level elements inside inline elements'; }
+
+input video::after {
+  content: 'Do not put block-level elements inside inline elements'; }
+
+kbd video::after {
+  content: 'Do not put block-level elements inside inline elements'; }
+
+label video::after {
+  content: 'Do not put block-level elements inside inline elements'; }
+
+map video::after {
+  content: 'Do not put block-level elements inside inline elements'; }
+
+object video::after {
+  content: 'Do not put block-level elements inside inline elements'; }
+
+q video::after {
+  content: 'Do not put block-level elements inside inline elements'; }
+
+samp video::after {
+  content: 'Do not put block-level elements inside inline elements'; }
+
+select video::after {
+  content: 'Do not put block-level elements inside inline elements'; }
+
+small video::after {
+  content: 'Do not put block-level elements inside inline elements'; }
+
+span video::after {
+  content: 'Do not put block-level elements inside inline elements'; }
+
+strong video::after {
+  content: 'Do not put block-level elements inside inline elements'; }
+
+sub video::after {
+  content: 'Do not put block-level elements inside inline elements'; }
+
+sup video::after {
+  content: 'Do not put block-level elements inside inline elements'; }
+
+textarea video::after {
+  content: 'Do not put block-level elements inside inline elements'; }
+
+var video::after {
+  content: 'Do not put block-level elements inside inline elements'; }
+
+img:not([src])::after {
+  content: 'Add a src attribute to this image placeholder.' !important; }
+
+figcaption::after {
+  content: '<figcaption>s must belong to parent <figure>s.' !important;
+  /* override this when they do have the parent <figure> */ }
+  figure figcaption::after {
+    display: none !important;
+    content: '' !important; }
+
+ol > *:not(li)::after,
+ul > *:not(li)::after {
+  content: 'Only <li> can be a direct child of <ul> or <ol>.' !important; }
+
+dl > *:not(dt):not(dd)::after {
+  content: 'This element does not belong directly inside a description list.' !important; }
+
+dt + *:not(dd)::after {
+  content: 'Descriptions must follow titles.' !important; }
+
+/*# sourceMappingURL=html-verify.level1.css.map */
