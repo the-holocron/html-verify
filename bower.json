@@ -1,6 +1,6 @@
 {
   "name": "html-verify",
-  "version": "1.0.2",
+  "version": "1.1.0",
   "description": "A scss/CSS library to point out some bad or malformed HTML.",
   "keywords": [
     "html",
@@ -10,7 +10,7 @@
     "validation",
     "validator"
   ],
-  "main": "./dist/html-verify.css",
+  "main": "./dist/html-verify.level3.css",
   "license": "MIT",
   "ignore": [
     "**/.*",
@@ -24,6 +24,7 @@
     "CHANGELOG.md",
     "CONTRIBUTING.md",
     "OWNERS.md",
+    ".github",
     "component.json"
   ]
 }

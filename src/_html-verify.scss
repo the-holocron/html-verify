@@ -1,0 +1,38 @@
+// Variables
+@import 'variables';
+
+// Mixins
+@import 'mixins/message';
+
+// Rules
+@import 'modules/deprecated';
+@import 'modules/block-inline';
+@import 'modules/html5';
+@import 'modules/forms';
+@import 'modules/buttons-links';
+@import 'modules/images';
+@import 'modules/lists';
+@import 'modules/misc';
+@import 'modules/print';
+
+@mixin html-verify( $debug_mode: 0 ) {
+	@if $debug_mode > 0 {
+		@include verify-deprecated();
+		@include verify-block-inline();
+		@include verify-images();
+		@include verify-lists();
+	}
+	@if $debug_mode > 1 {
+		@include verify-buttons-links();
+		@include verify-html5-sectioning();
+		@include verify-forms();
+		@include verify-image-alt();
+		@include verify-self-closing();
+		//@include verify-print();
+	}
+	@if $debug_mode > 2 {
+		@include verify-html5-accessibility();
+		@include verify-inline-styles();
+	}
+}
+

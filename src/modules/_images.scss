@@ -1,0 +1,40 @@
+/*
+ * Image attributes should be there and properly filled in.
+ *
+ */
+
+@mixin verify-image-alt() {
+	img {
+		&:not([alt]),
+		&[alt]:not([alt=""]) {
+			@extend %warning;
+			&::after {
+				content: 'Either add proper alt attribute content or void the alt properly using alt="".' !important;
+			}
+		}
+	}
+}
+
+@mixin verify-images() {
+	img {
+		&:not([src]) {
+			@extend %error;
+			&::after {
+				content: 'Add a src attribute to this image placeholder.' !important;
+			}
+		}
+	}
+
+	figcaption {
+		@extend %error;
+		&::after {
+			content: '<figcaption>s must belong to parent <figure>s.' !important;
+
+			/* override this when they do have the parent <figure> */
+			figure & {
+				display: none !important;
+				content: '' !important;
+			}
+		}
+	}
+}

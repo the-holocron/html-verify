@@ -1,6 +1,25 @@
-# Permalinks
 permalink: pretty
-
+exclude:
+  - '.github'
+  - 'node_modules'
+  - 'reports'
+  - 'src'
+  - '.csscomb.json'
+  - '.csslintrc'
+  - '.editorconfig'
+  - '.gitattributes'
+  - '.gitignore'
+  - '.overcommit.yml'
+  - '.scss-lint.yml'
+  - 'browserlist'
+  - 'Gemfile'
+  - 'Gemfile.lock'
+  - 'gulpfile.js'
+  - 'npm-debug.log'
+  - 'package.json'
+  - 'CONTRIBUTING.md'
+  - 'OWNERS.md'
+  - 'README.md'
 # Server
 source: docs
 

@@ -1,0 +1,29 @@
+@each $type in error, warning, info {
+	%#{$type} {
+		position: relative;
+		&::before {
+			position: absolute;
+			top: 0;
+			right: 0;
+			bottom: 0;
+			left: 0;
+			outline: .125rem solid map-get($verify-colors, #{$type});
+			content: '';
+		}
+		&::after {
+			display: none;
+			position: absolute;
+			top: 100%;
+			right: -.125rem;
+			padding: .25rem .75rem;
+			background-color: map-get($verify-colors, #{$type});
+			color: $verify-message-color;
+			font-size: small;
+			white-space: nowrap;
+		}
+		&:hover::after {
+			display: block;
+		}
+	}
+}
+

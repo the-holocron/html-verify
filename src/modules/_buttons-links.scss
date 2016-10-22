@@ -1,0 +1,79 @@
+/*
+ * Some generic rules for buttons and links.
+ * Links should have an href, should have proper
+ * fallbacks and accessibility.
+ *
+ */
+
+@mixin verify-buttons-links() {
+	a {
+		&:not([href]) {
+			@extend %warning;
+			&::after {
+				content: 'Do you mean for this to be a link or a <button>? It does not link to anything!' !important;
+			}
+		}
+		&[href=""],
+		&[href$="#"],
+		&[href^="javascript"] {
+			@extend %warning;
+			&::after {
+				content: 'Do you mean for this to be a <button>? It has a link that does not go anywhere!' !important;
+			}
+		}
+		&[class*="button"]:not([role="button"]) {
+			@extend %warning;
+			&::after {
+				content: 'If you are going to make it look like a button, make it a button!' !important;
+			}
+		}
+		&[role="button"] {
+			&:not([href*="/"]):not([href*="."]):not([href*="?"]),
+			&[href=""],
+			&[href$="#"],
+			&[href^="javascript"] {
+				@extend %warning;
+				::after {
+					content: 'Either use a proper href fallback or use a button element.' !important;
+				}
+			}
+		}
+		&.button[class*="disabled"],
+		&.disabled,
+		&[class*="button"][class*="disabled"] {
+			@extend %warning;
+			&::after {
+				content: 'You cannot disable a hyperlink. Use a button element with disabled="disabled".' !important;
+			}
+		}
+	}
+	.button,
+	.btn {
+		@extend %warning;
+		&:not(button):not([role="button"]):not([type="button"]):not([type="submit"]):not([type="reset"])::after {
+			content: 'If you are going to make it look like a button, make it a button, dammit!' !important;
+		}
+		&:not(a):not(button):not(input)::after {
+			content: 'You are not using a standard focusable element for your "button". Can keyboard users focus on it?' !important;
+		}
+	}
+
+	[class*="toggle"]:not([aria-pressed]) {
+		@extend %warning;
+		&::after {
+			content: 'If it is toggleable, you should supply an aria-pressed attribute.' !important;
+		}
+	}
+
+	a,
+	button {
+		&:empty:not([aria-label]):not([aria-labelledby]),
+		&:not([aria-label]):not([aria-labelledby]) img:only-child:not([alt]) {
+			@extend %warning;
+			&::after {
+				content: 'All buttons and links should have text content, an image with alt text or an ARIA label.' !important;
+			}
+		}
+	}
+}
+

@@ -1,0 +1,25 @@
+/*
+ * Miscellaneous rules.
+ *
+ */
+
+@mixin verify-self-closing() {
+	@each $element in map-get( $elements, 'self_closing' ) {
+		*:empty:not(#{$element}) {
+			@extend %warning;
+			&::after {
+				content: 'This element is empty. Why?' !important;
+			}
+		}
+	}
+}
+
+@mixin verify-inline-styles() {
+	[style] {
+		@extend %info;
+		&::after {
+			content:"Avoid inline styles where possible";
+		}
+	}
+}
+

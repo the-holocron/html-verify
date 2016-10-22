@@ -1,6 +1,6 @@
 {
   "name": "html-verify",
-  "version": "1.0.2",
+  "version": "1.1.0",
   "description": "A scss/CSS library to point out some bad or malformed HTML.",
   "keywords": [
     "html",
@@ -13,10 +13,14 @@
   "demo": "https://chrisopedia.github.io/html-verify",
   "styles": [
     [
-      "./html-verify.css",
-      "./html-verify.min.css"
+      "./html-verify.level1.css",
+      "./html-verify.level1.min.css",
+      "./html-verify.level2.css",
+      "./html-verify.level2.min.css",
+      "./html-verify.level3.css",
+      "./html-verify.level3.min.css"
     ]
   ],
   "license": "MIT",
-  "main": "./dist/html-verify.css"
+  "main": "./dist/html-verify.level3.css"
 }

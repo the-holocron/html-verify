@@ -1,29 +1,3 @@
-$base16: (
-	'00' : rgb(21, 21, 21),
-	'01' : rgb(32, 32, 32),
-	'02' : rgb(48, 48, 48),
-	'03' : rgb(80, 80, 80),
-	'04' : rgb(176, 176, 176),
-	'05' : rgb(208, 208, 208),
-	'06' : rgb(224, 224, 224),
-	'07' : rgb(245, 245, 245),
-	'08' : rgb(172, 65, 66),
-	'09' : rgb(210, 132, 69),
-	'0A' : rgb(244, 191, 117),
-	'0B' : rgb(144, 169, 89),
-	'0C' : rgb(117, 181, 170),
-	'0D' : rgb(106, 159, 181),
-	'0E' : rgb(170, 117, 159),
-	'0F' : rgb(143, 85, 54)
-);
-$colors : (
-	error : map-get( $base16, '08' ),
-	warning : map-get( $base16, '0A' ),
-	info : map-get( $base16, '0D' ),
-	success : map-get( $base16, '0B' ),
-	black : map-get( $base16, '00' ),
-	white : map-get( $base16, '07' )
-);
 $elements: (
 	block: (
 		address,

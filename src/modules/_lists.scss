@@ -1,0 +1,33 @@
+/*
+ * List items & definition lists should only have the
+ * appropriate descendant elements.
+ *
+ */
+
+@mixin verify-lists() {
+	ol,
+	ul {
+		> *:not(li) {
+			@extend %error;
+			&::after {
+				content: 'Only <li> can be a direct child of <ul> or <ol>.' !important;
+			}
+		}
+	}
+
+
+	dl > *:not(dt):not(dd) {
+		@extend %error;
+		&::after {
+			content: 'This element does not belong directly inside a description list.' !important;
+		}
+	}
+
+	dt + *:not(dd) {
+		@extend %error;
+		&::after {
+			content: 'Descriptions must follow titles.' !important;
+		}
+	}
+}
+
