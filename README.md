@@ -4,7 +4,7 @@ A scss/CSS library to point out some bad or malformed HTML.
 
 [![NPM version](https://img.shields.io/npm/v/html-verify.svg)](https://npmjs.org/package/html-verify "View this project on NPM")
 [![NPM downloads](https://img.shields.io/npm/dm/html-verify.svg)](https://npmjs.org/package/html-verify "View this project on NPM")
-[![Gratipay donate button](https://img.shields.io/gratipay/chrisopedia.svg)](https://www.gratipay.com/chrisopedia/ "Donate weekly to this project using Gratipay")
+[![Build Status](https://travis-ci.org/chrisopedia/html-verify.svg?branch=master)](https://travis-ci.org/chrisopedia/html-verify)
 
 ## Browser Support
 
