@@ -2,7 +2,7 @@
   "name": "html-verify",
   "description": "A Sass/CSS library to point out some bad or malformed HTML.",
   "homepage": "https://chrisopedia.github.io/html-verify",
-  "version": "1.1.0",
+  "version": "1.1.1",
   "author": "Newton Koumantzelis <chrisohpedia@gmail.com> (http://chrisnewton.me/about)",
   "keywords": [
     "html",
