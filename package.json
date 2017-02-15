@@ -58,9 +58,9 @@
   "devDependencies": {
     "autoprefixer": "^6.0.3",
     "browser-sync": "^2.9.11",
-    "clean-css": "^3.4.9",
+    "clean-css": "^4.0.7",
     "headr": "^0.1.0",
-    "node-sass": "^3.4.1",
+    "node-sass": "^4.5.0",
     "parallelshell": "^2.0.0",
     "postcss-cli": "^2.3.1"
   }
