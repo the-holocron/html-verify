@@ -1,5 +1,7 @@
 # HTML Verify
 
+[![Greenkeeper badge](https://badges.greenkeeper.io/chrisopedia/html-verify.svg)](https://greenkeeper.io/)
+
 A scss/CSS library to point out some bad or malformed HTML.
 
 [![NPM version](https://img.shields.io/npm/v/html-verify.svg)](https://npmjs.org/package/html-verify "View this project on NPM")
