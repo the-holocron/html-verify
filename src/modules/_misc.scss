@@ -4,8 +4,9 @@
  */
 
 @mixin verify-self-closing() {
-	@each $element in map-get( $elements, 'self_closing' ) {
+	@each $element in map-get($elements, 'self_closing') {
 		*:empty:not(#{$element}) {
+			min-height: 1rem;
 			@extend %warning;
 			&::after {
 				content: 'This element is empty. Why?' !important;
@@ -18,8 +19,7 @@
 	[style] {
 		@extend %info;
 		&::after {
-			content:"Avoid inline styles where possible";
+			content:"Avoid inline styles where possible" !important;
 		}
 	}
 }
-

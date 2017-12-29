@@ -39,7 +39,7 @@
 		&[for=""] {
 			@extend %warning;
 			&::after {
-				content:"Missing for attribute";
+				content:"Missing for attribute" !important;
 			}
 		}
 	}

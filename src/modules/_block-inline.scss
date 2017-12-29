@@ -6,7 +6,7 @@
 			#{$inline} #{$block} {
 				@extend %error;
 				&::after {
-					content: 'Do not put block-level elements inside inline elements';
+					content: 'Do not put block-level elements inside inline elements' !important;
 				}
 			}
 		}

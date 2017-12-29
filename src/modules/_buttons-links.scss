@@ -21,7 +21,8 @@
 				content: 'Do you mean for this to be a <button>? It has a link that does not go anywhere!' !important;
 			}
 		}
-		&[class*="button"]:not([role="button"]) {
+		&[class*="button"]:not([role="button"]),
+		&[class*="btn"]:not([role="button"]) {
 			@extend %warning;
 			&::after {
 				content: 'If you are going to make it look like a button, make it a button!' !important;
@@ -40,7 +41,8 @@
 		}
 		&.button[class*="disabled"],
 		&.disabled,
-		&[class*="button"][class*="disabled"] {
+		&[class*="button"][class*="disabled"],
+		&[class*="btn"][class*="disabled"] {
 			@extend %warning;
 			&::after {
 				content: 'You cannot disable a hyperlink. Use a button element with disabled="disabled".' !important;
