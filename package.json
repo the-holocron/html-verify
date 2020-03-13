@@ -60,7 +60,7 @@
     "browser-sync": "^2.9.11",
     "clean-css": "^4.2.3",
     "headr": "^0.1.0",
-    "node-sass": "^3.4.1",
+    "node-sass": "^4.13.1",
     "parallelshell": "^2.0.0",
     "postcss-cli": "^2.3.1"
   }
