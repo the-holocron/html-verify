@@ -56,7 +56,7 @@
     "start": "npm run serve"
   },
   "devDependencies": {
-    "autoprefixer": "^6.0.3",
+    "autoprefixer": "^9.8.6",
     "browser-sync": "^2.9.11",
     "clean-css": "^4.2.3",
     "headr": "^0.1.0",
