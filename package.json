@@ -62,6 +62,6 @@
     "headr": "^0.1.0",
     "node-sass": "^3.4.1",
     "parallelshell": "^2.0.0",
-    "postcss-cli": "^2.3.1"
+    "postcss-cli": "^8.3.1"
   }
 }
